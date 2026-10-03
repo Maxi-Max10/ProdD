@@ -1,0 +1,13 @@
+{
+  "name": "alndin-pedidos",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node dev-server.js",
+    "check": "node --check api/products.js && node --check app.js && node --check dev-server.js && node --check scripts/sync-products.js",
+    "sync:products": "node scripts/sync-products.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.15.0"
+  }
+}

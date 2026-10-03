@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es-AR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f6f3e9" />
+    <meta name="description" content="Elegí tus productos de dietética y enviá tu pedido por WhatsApp para retirarlo." />
+    <title>Alndin · Pedidos</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="responsive.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href="#inicio" aria-label="Alndin, ir al inicio">
+          <span class="brand-mark" aria-hidden="true">✳</span>
+          <span class="brand-name" id="brand-name">Alndin</span>
+        </a>
+        <nav aria-label="Navegación principal"><a href="#productos">Productos</a><a href="#como-funciona">Cómo funciona</a></nav>
+        <button class="header-cart" id="header-cart" type="button" aria-label="Abrir carrito">
+          <span aria-hidden="true">🛒</span> <span>Mi pedido</span> <span class="cart-count" id="cart-count">0</span>
+        </button>
+      </header>
+
+      <main>
+        <section class="hero" id="inicio">
+          <div class="hero-copy">
+            <span class="eyebrow"><span class="eyebrow-dot"></span> Tu dietética, a tu manera</span>
+            <h1>Elegí lo rico.<br /><em>Nosotros lo preparamos.</em></h1>
+            <p>Armá tu pedido con las cantidades que necesitás. Nos llega por WhatsApp y lo dejamos listo para que pases a retirarlo.</p>
+            <a class="primary-link" href="#productos">Ver productos <span aria-hidden="true">↗</span></a>
+            <div class="hero-note"><span class="note-icon" aria-hidden="true">✓</span> Sin pagar online · Retirás en el local</div>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="hero-circle hero-circle-one"></div><div class="hero-circle hero-circle-two"></div>
+            <div class="hero-bowl"><span>✳</span></div>
+            <div class="hero-art-label">Natural<br />todos los días<span>↗</span></div>
+          </div>
+        </section>
+
+        <section class="catalog-section" id="productos">
+          <div class="section-topline"><span class="section-kicker">NUESTROS PRODUCTOS</span><span class="section-line"></span><span class="section-index">01 / 02</span></div>
+          <div class="catalog-heading"><div><h2>Elegí tus favoritos</h2><p>Seleccioná la cantidad y agregá todo a tu pedido.</p></div><div class="catalog-total" id="catalog-total"></div></div>
+          <div class="catalog-controls"><label class="search-field"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar un producto..." aria-label="Buscar productos" /></label><div class="category-list" id="categories" aria-label="Filtrar por categoría"></div></div>
+          <div class="notice hidden" id="demo-notice">Estás viendo un catálogo de ejemplo. Los productos reales aparecerán al conectar la base de datos.</div>
+          <div class="product-grid" id="product-grid" aria-live="polite"><div class="loading">Cargando productos...</div></div>
+        </section>
+
+        <section class="steps-section" id="como-funciona"><div class="steps-intro"><span class="section-kicker">ASÍ DE SIMPLE</span><h2>Tu pedido en<br /><em>tres pasos.</em></h2></div><div class="steps-list"><div class="step"><span>01</span><div><h3>Elegí tus productos</h3><p>Sumá al carrito lo que quieras, por unidad o por peso.</p></div></div><div class="step"><span>02</span><div><h3>Mandanos el pedido</h3><p>Se abre WhatsApp con el detalle y el total estimado.</p></div></div><div class="step"><span>03</span><div><h3>Pasá a retirarlo</h3><p>Te confirmamos cuándo estará listo en el local.</p></div></div></div></section>
+      </main>
+      <footer class="site-footer"><span class="footer-brand">✳ <span id="footer-name">Alndin</span></span><span>Comer bien, sentirse bien.</span><a href="#inicio">Volver arriba ↑</a></footer>
+    </div>
+
+    <button class="mobile-cart" id="mobile-cart" type="button"><span>Ver mi pedido</span><span id="mobile-cart-summary">0 productos</span></button>
+    <div class="drawer-backdrop hidden" id="drawer-backdrop"></div>
+    <aside class="cart-drawer" id="cart-drawer" role="dialog" aria-modal="true" aria-labelledby="cart-title" aria-hidden="true">
+      <div class="drawer-header"><div><span class="section-kicker">TU SELECCIÓN</span><h2 id="cart-title">Mi pedido <span id="drawer-count">(0)</span></h2></div><button class="icon-button" id="close-cart" type="button" aria-label="Cerrar carrito">×</button></div>
+      <div class="cart-items" id="cart-items"></div>
+      <div class="drawer-footer"><div class="cart-total"><span>Total estimado</span><strong id="cart-total">$0</strong></div><p>Confirmaremos la disponibilidad y el importe final por WhatsApp.</p><button class="whatsapp-button" id="send-order" type="button">Enviar pedido por WhatsApp <span aria-hidden="true">↗</span></button><span class="order-error hidden" id="order-error"></span></div>
+    </aside>
+  </body>
+</html>

@@ -1,0 +1,4961 @@
+[
+  {
+    "id": 18,
+    "name": "Avena Instantánea (a granel)",
+    "description": null,
+    "image_path": "6b3c45b05c7396912f4785a7cf06b8db.png",
+    "unit": "kg",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 19,
+    "name": "Avena Tradicional/ Clasica (a granel)",
+    "description": null,
+    "image_path": "043c1114c95ca1e68d2f6e71657f7856.png",
+    "unit": "kg",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 20,
+    "name": "Salvado de Avena (a granel)",
+    "description": null,
+    "image_path": "447765be07b8c042013d27de119a917e.jpg",
+    "unit": "kg",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 21,
+    "name": "Harina de Avena (a granel)",
+    "description": null,
+    "image_path": "f511d1d19bd0c8b70fab97ff4873b586.png",
+    "unit": "kg",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 22,
+    "name": "Coco Rallado (a granel)",
+    "description": null,
+    "image_path": "a29ac9d688cbdcbc8a328c1b61223d8b.jpg",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 23,
+    "name": "coco en Escamas (a granel)",
+    "description": null,
+    "image_path": "0c48cea531c3695f454d53f749ebe561.png",
+    "unit": "kg",
+    "price_cents": 4000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 24,
+    "name": "Harina de Coco (a granel)",
+    "description": null,
+    "image_path": "3d0fc667cdf05029d8dc05986eb3faf0.png",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 26,
+    "name": "Arroz Yamani (a granel)",
+    "description": null,
+    "image_path": "e94f02e0a7422b1f4ed62e157cf1a49f.png",
+    "unit": "kg",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 27,
+    "name": "Canela en Rama (granel)",
+    "description": null,
+    "image_path": "635c7594c39937df17e154293a4bc0b4.jpg",
+    "unit": "kg",
+    "price_cents": 18000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 29,
+    "name": "\"Seaweed Nori\" Algas nory para sushi x12",
+    "description": null,
+    "image_path": "11f6f10baf051ee1a236c62e6bf46976.png",
+    "unit": "un",
+    "price_cents": 2600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 31,
+    "name": "Vinagre de sidra x500ml",
+    "description": null,
+    "image_path": "26ba09b87855e32184cc48629ea2c3ca.jpg",
+    "unit": "un",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 32,
+    "name": "Vinagre de sidra x250ml",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 33,
+    "name": "aceite de oliva x1L",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 2300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 34,
+    "name": "\"1917\" Aceite de oliva virgen extra x500ml",
+    "description": null,
+    "image_path": "6e64baa3b9093273022a765082f02694.png",
+    "unit": "un",
+    "price_cents": 1600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 36,
+    "name": "Harina de almendra 70% (granel)",
+    "description": null,
+    "image_path": "2c07fe4749103ba74262db09baf20c5e.jpg",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 37,
+    "name": "Quinoa Pop (granel)",
+    "description": null,
+    "image_path": "2369292ddcbd4da32ba2dcf736019e76.webp",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 38,
+    "name": "semilla de Chia (granel)",
+    "description": null,
+    "image_path": "ac18d4c4929b1628c92774a71931ae12.webp",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 40,
+    "name": "cacao amargo (granel)",
+    "description": null,
+    "image_path": "e9a0027eae35e27600b857f59231115d.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 41,
+    "name": "\"Rincon\" Galletasde arroz intregal 100gr- s/tacc",
+    "description": "hay dulcces o con sal o sin sal",
+    "image_path": "edbf6be728b41fa4bd92281d081c1d64.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 42,
+    "name": "semilla de lino (granel)",
+    "description": null,
+    "image_path": "2f1711af58693fecb97066c216020d06.jpg",
+    "unit": "kg",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 43,
+    "name": "Semilla de Girasol (granel)",
+    "description": null,
+    "image_path": "e42131d58e085be2764543315c98d27d.jpg",
+    "unit": "kg",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 44,
+    "name": "Srmilla de Zapallo (granel)",
+    "description": null,
+    "image_path": "cad2075b474df599eef9ce37984cf51e.webp",
+    "unit": "kg",
+    "price_cents": 2800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 45,
+    "name": "\"De uco\" Pasta de Mani",
+    "description": null,
+    "image_path": "e274635fdcf10568ac41e460a8cc9102.jpg",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 46,
+    "name": "\"Entrenuts\" Aceite de coco neutro 200cc",
+    "description": null,
+    "image_path": "6a4c50796e8e60345fd5afe7b070a0a1.jpg",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 48,
+    "name": "\"Entrenuts\" Aceite de coco virgen 200cc",
+    "description": null,
+    "image_path": "594e875bc4fd740dbca56ce0a12b3cd0.jpg",
+    "unit": "un",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 49,
+    "name": "\"Entrenuts\" Aceite de coco virgen 360cc",
+    "description": null,
+    "image_path": "037009398d88ef0e03db49ababba63c3.jpg",
+    "unit": "un",
+    "price_cents": 2100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 50,
+    "name": "Gotas Andino (seleccionar)",
+    "description": null,
+    "image_path": "351d4cc5e0e88f080781bf052af200d9.jpg",
+    "unit": "un",
+    "price_cents": 950000,
+    "currency": "ARS"
+  },
+  {
+    "id": 51,
+    "name": "Harina de Arroz (a granel)",
+    "description": null,
+    "image_path": "618f989e45e3a041031694f49296982a.png",
+    "unit": "kg",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 52,
+    "name": "\"Dicomere\" Harina de Almendras s/TACC 200gr",
+    "description": null,
+    "image_path": "269d4a7775e965cc0231eda3d2ecff1a.png",
+    "unit": "un",
+    "price_cents": 1400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 53,
+    "name": "Polenta \"dicomere\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 54,
+    "name": "\"Dicomere\" Harina de Sorgo blanco integral s/TACC- 450gr",
+    "description": null,
+    "image_path": "a6e9abfd04c1394ad39546d2107ba514.png",
+    "unit": "un",
+    "price_cents": 550000,
+    "currency": "ARS"
+  },
+  {
+    "id": 59,
+    "name": "\"Dicoreme\" Leche de coco en polvo clasica (vegana) s/TACC 150gr",
+    "description": null,
+    "image_path": "c3b75cf3026007db0024a5817bdb6439.jpg",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 61,
+    "name": "Galleta de arroz bañada dulce \"dicomere\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 64,
+    "name": "\"Dicomere\" Bicarbonato de sodio s/TACC-200gr",
+    "description": null,
+    "image_path": "efb720a12c2211e0dd254b685218880a.webp",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 65,
+    "name": "\"Dicomere\" Cacao amargo polvo 100%cacao brasileño s/TACC- 200gr",
+    "description": null,
+    "image_path": "c0d8dd654222867d4a996b1efa5ff515.webp",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 66,
+    "name": "\"Dicomere\" Texturizado de Arveja Amarilla- 350gr",
+    "description": null,
+    "image_path": "3d9ad687b4be8c16bb69e10d7581dd14.png",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 67,
+    "name": "\"Dicomere\" Texturizado de soja s/TACC-350gr",
+    "description": null,
+    "image_path": "e33f1426b043f9404060dda1b72c6dfb.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 68,
+    "name": "\"Dicomere\" Golden Syrup/ Jarabe de Caña  s/TACC - 300gr",
+    "description": "vegana",
+    "image_path": "e57429a50e394cb31f56b101507cf82b.png",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 69,
+    "name": "Premezcla c/psyllium \"decomere\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 70,
+    "name": "\"Dicomere\" Avena gruesa s/TACC",
+    "description": null,
+    "image_path": "9e172e0070df4db70decf01b4c1dd3bf.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 74,
+    "name": "Polvo de hornear \"dicomere\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 75,
+    "name": "\"Dicomere\" Garbanzo texturizado 350gr",
+    "description": null,
+    "image_path": "42e2f72721f9c7b139ce5de57eeb06d1.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 76,
+    "name": "\"Jual\" Stevia liquida  x200cc",
+    "description": null,
+    "image_path": "0d91d7768c5ee9ff897c16f3aea9f00d.jpg",
+    "unit": "un",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 77,
+    "name": "\"Jual\" Stevia Liquida x500cc",
+    "description": null,
+    "image_path": "fa281f59003dc429703acc3d3744fbd3.jpg",
+    "unit": "un",
+    "price_cents": 2200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 79,
+    "name": "\"Jual\" Jugo de aloe vera  x250ml",
+    "description": null,
+    "image_path": "def5ca3294b4998fac1c962af6acd9cd.jpg",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 80,
+    "name": "Mermelada s/a \"natural gourmet\" x400gr",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 81,
+    "name": "Miel x250gr",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 82,
+    "name": "Miel x500gr",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 83,
+    "name": "Miel x1kg",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 1600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 84,
+    "name": "Bombón frutal surtido",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 120000,
+    "currency": "ARS"
+  },
+  {
+    "id": 85,
+    "name": "Gotas \"El naturalista\" cardo mariano",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 86,
+    "name": "Gotas \"El naturalista\" valeriana",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 87,
+    "name": "\"El naturalista\" Gotas Melisa- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "5373eac10689b50ef45ab439a04cc5b2.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 88,
+    "name": "\"El Naturalista\" Gotas carqueja- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "fb1a6e99d1205fb0d6bb1beda60adb7b.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 89,
+    "name": "\"El Naturalista\" Gotas Valeriana- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "5c8a5a4f898984c8be9b72e1cc81cf1c.jpg",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 90,
+    "name": "\"El naturalista\" Gotas Rompe Piedra- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "b4be2918a868f955008040384c359a1d.jpg",
+    "unit": "un",
+    "price_cents": 950000,
+    "currency": "ARS"
+  },
+  {
+    "id": 91,
+    "name": "\"El Naturalista\" Gotas Ambay- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "82dbf944042287e1354a05f5c1093193.jpg",
+    "unit": "un",
+    "price_cents": 950000,
+    "currency": "ARS"
+  },
+  {
+    "id": 92,
+    "name": "\"El Naturalista\" Gotas Ajo- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "69e2324fbac10b9f365798351e950962.jpg",
+    "unit": "un",
+    "price_cents": 950000,
+    "currency": "ARS"
+  },
+  {
+    "id": 93,
+    "name": "\"El Naturalista\" Gotas Harpagofito- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "752c59d4b35752bdf1d2819e3695cb32.jpg",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 94,
+    "name": "\"El Naturalista\" Gotas Uña de Gato- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "a821a78f0b8cb3da0c1d62c6984bdbb9.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 96,
+    "name": "\"El Naturalista\" Gotas Manzanilla- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "6c4d0ebbde4883c79a640a941087136f.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 97,
+    "name": "\"El Naturalista\" Gotas Castaño de indias-60c.c",
+    "description": "Tintura Madre",
+    "image_path": "30883ae94bc9c6cd3ddf300123a14373.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 98,
+    "name": "\"El naturalista\" Gotas Ginko Biloba-60c.c",
+    "description": "Tintura Madre",
+    "image_path": "a276db3774481786f497a120da3061f6.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 99,
+    "name": "\"El Naturalista\" Gotas Mil Hombres- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "d41f789cf0ac66aca09ef47894b56dac.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 100,
+    "name": "\"El Naturalista\" Gotas Arándano-60c.c",
+    "description": "Tintura Madre",
+    "image_path": "40b372edeccd90297ab8e6779582d513.jpg",
+    "unit": "un",
+    "price_cents": 950000,
+    "currency": "ARS"
+  },
+  {
+    "id": 101,
+    "name": "\"El Naturalista\" Gotas Nencia- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "da7eeefbac32e56e0f65765aeb8a9f10.jpg",
+    "unit": "un",
+    "price_cents": 950000,
+    "currency": "ARS"
+  },
+  {
+    "id": 103,
+    "name": "Yerba Organica (granel)",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 108,
+    "name": "Te de Burro (granel)",
+    "description": null,
+    "image_path": "2441e705f7d980a2623742d938c120d5.png",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 109,
+    "name": "Melisa (granel)",
+    "description": null,
+    "image_path": "2d94dcdf3ae9d3244fba4f69b64dc35c.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 110,
+    "name": "Ajenjo (granel)",
+    "description": null,
+    "image_path": "57fb6311bcc464b2b56de0e5cd01bac4.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 111,
+    "name": "Amargón/ Diente de león (granel)",
+    "description": null,
+    "image_path": "bcff8e368173884050edcc0529d6f588.png",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 112,
+    "name": "Alfalfa (granel)",
+    "description": null,
+    "image_path": "eb27e18b9304e201f38833ed6985c69f.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 113,
+    "name": "Ambay (granel)",
+    "description": null,
+    "image_path": "c025096bfe85127791c711c3a2862fc1.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 124,
+    "name": "Anis Estrellado (granel)",
+    "description": null,
+    "image_path": "1c1335158db3643aa35401d4ff50dc57.jpg",
+    "unit": "kg",
+    "price_cents": 10000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 125,
+    "name": "Clavo de Olor (granel)",
+    "description": null,
+    "image_path": "da9ab247a31a6b7ed760dfa6875ec942.jpg",
+    "unit": "kg",
+    "price_cents": 8000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 126,
+    "name": "Boldo (granel)",
+    "description": null,
+    "image_path": "538fba485353097ffd7ef2ca546fa004.webp",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 127,
+    "name": "Carqueja (granel)",
+    "description": null,
+    "image_path": "ecf975cd0a10e4063358861bc1907f00.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 128,
+    "name": "Cola de caballo (granel)",
+    "description": null,
+    "image_path": "2eb4a44cc8a239e464bb5bd56f0c465a.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 129,
+    "name": "Cuasia amarga (granel)",
+    "description": null,
+    "image_path": "b9d324d7df293c88f09cac5d47067b7a.jpg",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 130,
+    "name": "Centella (granel)",
+    "description": null,
+    "image_path": "59fcdba33a099edcf744864a34c3c2ce.png",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 133,
+    "name": "Cedrón (granel)",
+    "description": null,
+    "image_path": "be0b4f6bdfd845290f2ba058c3fc3269.webp",
+    "unit": "kg",
+    "price_cents": 4000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 134,
+    "name": "Doradilla (granel)",
+    "description": null,
+    "image_path": "1495c4570e9139232f81c12c916bda0a.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 135,
+    "name": "Estregón (granel)",
+    "description": null,
+    "image_path": "c645b11262610683b907d64348148bd2.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 136,
+    "name": "Enebro (granel)",
+    "description": null,
+    "image_path": "bceb62fa6904e3f2485fed907205cd47.jpg",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 137,
+    "name": "Fucus Vesiculosis (granel)",
+    "description": null,
+    "image_path": "f78689318bb5c7b8f8b429e1b1210a15.webp",
+    "unit": "kg",
+    "price_cents": 9000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 138,
+    "name": "Hisopo (granel)",
+    "description": null,
+    "image_path": "6f22d6aeef79842f42e958d105d7ab9b.jpg",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 139,
+    "name": "Ginkgo Biloba (granel)",
+    "description": null,
+    "image_path": "5ee45f6ba642e94424f34d0ff3d1f3ec.jpg",
+    "unit": "kg",
+    "price_cents": 2800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 140,
+    "name": "Uva Ursi (granel)",
+    "description": null,
+    "image_path": "1cf93ffbee5a99dbf19e3f605a49ea60.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 141,
+    "name": "Ortiga (granel)",
+    "description": null,
+    "image_path": "0c581a0e30d11e9ce1c3cf19eda6f1a9.png",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 142,
+    "name": "Hibiscus (granel)",
+    "description": null,
+    "image_path": "603e12a93cb8990330a3c18258b49bdb.webp",
+    "unit": "kg",
+    "price_cents": 6000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 143,
+    "name": "Lapacho (granel)",
+    "description": null,
+    "image_path": "87afc88c29e6295f3c6f8be8fe751cf7.jpg",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 144,
+    "name": "Menta (granel)",
+    "description": null,
+    "image_path": "736ad04bde92458351a6d3791df069ea.webp",
+    "unit": "kg",
+    "price_cents": 4000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 145,
+    "name": "Muerdago (granel)",
+    "description": null,
+    "image_path": "971671962974ed498dc79d98f7ddc6be.jpg",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 147,
+    "name": "Marrubio (granel)",
+    "description": null,
+    "image_path": "ed39ff724ed8a32ab1ff93a39ed346e6.webp",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 148,
+    "name": "Marcela (granel)",
+    "description": null,
+    "image_path": "4ab96119d9ba2d1d20dfe087def797da.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 149,
+    "name": "Malva (granel)",
+    "description": null,
+    "image_path": "3d11439d86802e3e0af58fc74b338465.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 150,
+    "name": "Matico (granel)",
+    "description": null,
+    "image_path": "12cb528c10fb5b2254ecde05e24a941f.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 151,
+    "name": "Muña (granel)",
+    "description": null,
+    "image_path": "57982a4999d5f595a38897955665e603.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 152,
+    "name": "Moringa (granel)",
+    "description": null,
+    "image_path": "4fa28afb26ffa4711fe02940b3a08c2c.webp",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 153,
+    "name": "Peperina (granel)",
+    "description": null,
+    "image_path": "8e6299ad37b59da24e5e4051d1b3a63e.webp",
+    "unit": "kg",
+    "price_cents": 4000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 154,
+    "name": "Stevia-Yerba dulce (granel)",
+    "description": null,
+    "image_path": "a55cbd97afde47947fe06937c5689822.jpg",
+    "unit": "kg",
+    "price_cents": 5000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 156,
+    "name": "Llanten (granel)",
+    "description": null,
+    "image_path": "52a0f9130ee005b854a604438a4c3612.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 158,
+    "name": "Pezuña de Vaca (granel)",
+    "description": null,
+    "image_path": "099ae2da075ea178a9383120bd500703.webp",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 159,
+    "name": "Rompe Piedra (granel)",
+    "description": null,
+    "image_path": "ae0d42b98f6857878ad8814097c3882b.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 160,
+    "name": "Salvia Blanca (granel)",
+    "description": null,
+    "image_path": "e2fb2001606a6bd262e942f732eb418a.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 161,
+    "name": "Pulmonaria (granel)",
+    "description": null,
+    "image_path": "32c8f655422cdc3c73f8332c8534bbad.png",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 162,
+    "name": "Paico",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 163,
+    "name": "Yerba meona/ Arenaria (granel)",
+    "description": null,
+    "image_path": "d4a13da573793c93b63458d3af875908.png",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 164,
+    "name": "Lavanda (granel)",
+    "description": null,
+    "image_path": "3c4dc151d747f4d84e6186de3781df19.webp",
+    "unit": "kg",
+    "price_cents": 9000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 165,
+    "name": "Cremor tartaro",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 167,
+    "name": "Polvo de hornear (granel)",
+    "description": null,
+    "image_path": "12b4e700761b9859850f5015d1b812ba.jpg",
+    "unit": "kg",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 168,
+    "name": "Azúcar impalpable (granel)",
+    "description": null,
+    "image_path": "04d70a9f23b42deff53150943fbcf006.jpg",
+    "unit": "kg",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 170,
+    "name": "Arroz  de Sushi (a granel)",
+    "description": null,
+    "image_path": "2cb9250dc532a762e2723207c150e0c7.jpg",
+    "unit": "kg",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 171,
+    "name": "Nuez moscada Grano",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 6000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 176,
+    "name": "Azucar de mascabo (granel)",
+    "description": null,
+    "image_path": "341b064d983adfa327206886a883cbdc.jpg",
+    "unit": "kg",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 177,
+    "name": "Arroz Carnaroli (a granel)",
+    "description": null,
+    "image_path": "a503ca915dd0c4417c0c441ce46cc61a.png",
+    "unit": "kg",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 178,
+    "name": "Nuez Moscada Molida (granel)",
+    "description": null,
+    "image_path": "1c28ee6a863d48af15d88b5ca8a8c993.jpg",
+    "unit": "kg",
+    "price_cents": 5800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 185,
+    "name": "Bicarbonato de sodio (granel)",
+    "description": null,
+    "image_path": "292168616d65e3d5afffea232c5ea609.jpg",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 188,
+    "name": "Mani con Sal (granel)",
+    "description": null,
+    "image_path": "b2d9ac7f0cc8fc89df15207ab2870512.jpg",
+    "unit": "kg",
+    "price_cents": 1100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 189,
+    "name": "Mani sin Sal (granel)",
+    "description": null,
+    "image_path": "8db1407f5f58f7e30c29f0e95e66b82c.jpg",
+    "unit": "kg",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 190,
+    "name": "mani con cascara",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 650000,
+    "currency": "ARS"
+  },
+  {
+    "id": 192,
+    "name": "Mix Tropìcal (granel)",
+    "description": null,
+    "image_path": "32dcdd61d255b38a43bb023c367af242.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 193,
+    "name": "mix seco (granel)",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 3500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 195,
+    "name": "mix Fran",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 196,
+    "name": "Mix Cervecero (granel)",
+    "description": null,
+    "image_path": "c3b1baae9fb6374d003737b6572bbcf1.webp",
+    "unit": "kg",
+    "price_cents": 3500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 197,
+    "name": "Mani Japones (granel)",
+    "description": null,
+    "image_path": "e41cae87e3ada2a59a3bc66ea51bb0f4.webp",
+    "unit": "kg",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 198,
+    "name": "Castaña de Caju (granel)",
+    "description": null,
+    "image_path": "a6f242082f669f00baad8022802d393f.webp",
+    "unit": "kg",
+    "price_cents": 3200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 199,
+    "name": "Pasas arándanos (granel)",
+    "description": null,
+    "image_path": "12ce6ed0346500b5fae98b0968e71f4c.webp",
+    "unit": "kg",
+    "price_cents": 2800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 201,
+    "name": "Almendras (granel)",
+    "description": null,
+    "image_path": "d40761113da15d9052d8ec25061a54fe.webp",
+    "unit": "kg",
+    "price_cents": 3200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 202,
+    "name": "Avellanas (a granel)",
+    "description": null,
+    "image_path": "ce1149fefd096f3f2fa975172c86a129.jpg",
+    "unit": "kg",
+    "price_cents": 4000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 203,
+    "name": "pistachos",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 5000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 204,
+    "name": "Tomate Seco (granel)",
+    "description": null,
+    "image_path": "8a9c0c5db627dc9d01e061e63dad651d.webp",
+    "unit": "kg",
+    "price_cents": 2700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 205,
+    "name": "Hongos de pino (granel)",
+    "description": null,
+    "image_path": "eeaad28c60479562ec6d7b1973aaf581.webp",
+    "unit": "kg",
+    "price_cents": 6000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 206,
+    "name": "Bayas de Goyi (granel)",
+    "description": null,
+    "image_path": "f6f0fe33bdb60c4845716555d3ff4e39.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 207,
+    "name": "ciruelas secas",
+    "description": null,
+    "image_path": "3a5097f07f6a865275d631c0af275df0.jpg",
+    "unit": "kg",
+    "price_cents": 1400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 208,
+    "name": "Pasas de Uva Morochas (granel)",
+    "description": null,
+    "image_path": "e00a23cb55a0b1b9c7dbcafbbf68b742.webp",
+    "unit": "kg",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 209,
+    "name": "Pasas Uva Rosadas (granel)",
+    "description": null,
+    "image_path": "a131996406d6b5e2b727c972c85c9143.jpg",
+    "unit": "kg",
+    "price_cents": 1400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 211,
+    "name": "Datiles (granel)",
+    "description": null,
+    "image_path": "19d3bdb1bd140a660dfd84dc22ecf66d.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 212,
+    "name": "harina de arroz integral (granel)",
+    "description": null,
+    "image_path": "efb05986f8485deef9afa24d78faf60f.webp",
+    "unit": "kg",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 214,
+    "name": "\"Dicomere\" Harina de garbanzo organica s/TACC 450gr",
+    "description": null,
+    "image_path": "b95306f0ce63305df8679d1b62404f95.jpg",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 215,
+    "name": "Harina de Maní (a granel)",
+    "description": null,
+    "image_path": "94b3dc65ef92b437a87a3aa4eb09cfb7.png",
+    "unit": "kg",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 216,
+    "name": "Harina de Centeno (a granel)",
+    "description": null,
+    "image_path": "ace0b0c01d26744f7c2833114002c55f.png",
+    "unit": "kg",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 217,
+    "name": "Semolin de Trigo (granel)",
+    "description": null,
+    "image_path": "41fdfafa97ea8f62039ef31a4e0977ad.jpg",
+    "unit": "kg",
+    "price_cents": 550000,
+    "currency": "ARS"
+  },
+  {
+    "id": 218,
+    "name": "Azucar Rubia (granel)",
+    "description": null,
+    "image_path": "90d779b4300a49e47d0b3f9acdaf2a79.webp",
+    "unit": "kg",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 219,
+    "name": "azucar negra (granel)",
+    "description": null,
+    "image_path": "33acbc5c91e231b038d8b42a39b69441.webp",
+    "unit": "kg",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 222,
+    "name": "Sesamo Negro (granel)",
+    "description": null,
+    "image_path": "3dfd4544712d5c6166fd57250eb45691.webp",
+    "unit": "kg",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 223,
+    "name": "semilla de Hinojo (granel)",
+    "description": null,
+    "image_path": "53a9e11aee3293cd8f3c4e719b9dd5da.webp",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 224,
+    "name": "Semilla de Amaranto (granel)",
+    "description": null,
+    "image_path": "a5315461687cb185deed0556d8b2f314.webp",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 226,
+    "name": "semilla de Anis (granel)",
+    "description": null,
+    "image_path": "1619a7afc1d8d19fa71a6ab43683cffd.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 227,
+    "name": "semilla de Amapola (graneel)",
+    "description": null,
+    "image_path": "2f59d65b32d92ffcfcbabf79a40014d1.webp",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 229,
+    "name": "Gluten de Trigo puro (granel)",
+    "description": null,
+    "image_path": "961388f6f29f6711143e0a24d49a6f97.png",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 230,
+    "name": "Yogurt",
+    "description": null,
+    "image_path": null,
+    "unit": "l",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 231,
+    "name": "Harina para arepas \"Pan\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 234,
+    "name": "Almohaditas Frutilla (a granel)",
+    "description": null,
+    "image_path": "346f2d6b4057fbd16b917e2ce8b6ff3b.png",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 235,
+    "name": "aritos de Miel (a granel)",
+    "description": null,
+    "image_path": "2febf4f7b6f9b5cd12d868fb5c402399.jpg",
+    "unit": "kg",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 236,
+    "name": "Cereal de Bananitas (granel)",
+    "description": null,
+    "image_path": "3113cfbf8a9b73a073b5147a14e946b0.jpg",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 237,
+    "name": "Cereal con Azucar (granel)",
+    "description": null,
+    "image_path": "3458354442185a6add6afc33682b1057.jpg",
+    "unit": "kg",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 238,
+    "name": "Cereal sin Azucar (granel)",
+    "description": null,
+    "image_path": "e4ce015280499ef08017b03114fd315a.jpg",
+    "unit": "kg",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 239,
+    "name": "Cereal Fibra (granel)",
+    "description": null,
+    "image_path": "cd76877f5815ddb08aeb7e50dbfaea82.png",
+    "unit": "kg",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 240,
+    "name": "Bolitas Chocolate (a granel)",
+    "description": null,
+    "image_path": "a03cc75f4aeb7f89d94667beae55470c.webp",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 241,
+    "name": "Copas de chocolate (granel)",
+    "description": null,
+    "image_path": "96e520adee01213fbff437681de3c21a.webp",
+    "unit": "kg",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 242,
+    "name": "naturitos",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 245,
+    "name": "\"Yogurt Now\" Iniciador de yogurt- 5gr",
+    "description": null,
+    "image_path": "291e1551d803242209d6dd649113b4c4.jpg",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 246,
+    "name": "mate calabaza, base bolitas",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 5000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 247,
+    "name": "mate calabaza, sin base, cuero",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 4000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 252,
+    "name": "mates matienzo y bombilla",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 5000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 254,
+    "name": "Mate ranchero",
+    "description": null,
+    "image_path": null,
+    "unit": null,
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 255,
+    "name": "\"Chacabuco\" Premezcla",
+    "description": null,
+    "image_path": "48aaebd71b02edfb35afad225e6b15e2.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 256,
+    "name": "Barrita \"Laddubar\"",
+    "description": null,
+    "image_path": "fee0d123cb11f5d1d9cfad92a51b7706.jpg",
+    "unit": "un",
+    "price_cents": 250000,
+    "currency": "ARS"
+  },
+  {
+    "id": 261,
+    "name": "\"Crudda\" Barra sabor brownie- 40gr",
+    "description": null,
+    "image_path": "58860ba1617a48ed7e626825b3710818.webp",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 263,
+    "name": "Barrita \"Mueca\" Proteica",
+    "description": null,
+    "image_path": "dd7ac677e48b889f1bfe538af053613a.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 265,
+    "name": "Barrita Proteica \"Vitalgy\"",
+    "description": null,
+    "image_path": "125a1d34a2ad83cbec734d52d2d0e10d.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 268,
+    "name": "Barrita \"Fungi bar\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 280000,
+    "currency": "ARS"
+  },
+  {
+    "id": 269,
+    "name": "\"Brava\" Barrita Cereal sabor frutilla y naranja",
+    "description": null,
+    "image_path": "60bfb673508624d88876eade50649b34.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 271,
+    "name": "\"Crowie\"  Barrita de arroz de frutilla-12gr",
+    "description": null,
+    "image_path": "4abafbc369b0dfbe6cdde66d50e48fe5.webp",
+    "unit": "un",
+    "price_cents": 100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 273,
+    "name": "\"Alkanater\" Pasta de sesamo-400gr",
+    "description": null,
+    "image_path": "5a74835dce871c601ea5b2e48ea20aa3.jpg",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 274,
+    "name": "\"VitaminWay\" Citrato de magnesio- maxima absorción",
+    "description": "30 Capsulas vegetales",
+    "image_path": "6f1b7f87c4acbfda2b5dbd31e6d2fd28.png",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 277,
+    "name": "\"El Naturalista\" B12 VITAMINAS",
+    "description": null,
+    "image_path": "abe43cc1d6e0c368b98604a19b96e8ce.png",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 279,
+    "name": "\"VitaminWay\" Arandano Ury (extractos de arandonos rojos + arandanos azul con vitamina C y E",
+    "description": "60 Cápsulas",
+    "image_path": "1e7e4d74274a7cd9539850f95173e2a9.png",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 280,
+    "name": "Vinagre de sidra de manzana \"VitaminWay\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 281,
+    "name": "Salubiotics Probioticos",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 283,
+    "name": "\"VitaminWay\" Melena de león con vitaminas B6, B12 y AC. Folico",
+    "description": "30 capsulas",
+    "image_path": "006eea41452f9b4198711cdd475a3237.png",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 284,
+    "name": "\"Salutaris\" Colágeno dia y noche",
+    "description": "30 Cápsulas de día y 30 Capsulas de noche (60 en total)",
+    "image_path": "5e3ade4d7b10b1de3fb664892c3a0caa.jpg",
+    "unit": "un",
+    "price_cents": 2800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 285,
+    "name": "\"VitaminWay\" Selenio quelato Mayor biodisponibilidad",
+    "description": "30 Capsulas Vegetales",
+    "image_path": "c9d1786c60174cd0ec6f04fe3f0694b5.jpg",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 286,
+    "name": "Rebozador \"granix\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 287,
+    "name": "\"SaintGottard\" Te de Frutos del bosque- 20 saquitos",
+    "description": null,
+    "image_path": "4ef998602f208f2461d9e51a2648e4c7.jpg",
+    "unit": "un",
+    "price_cents": 580000,
+    "currency": "ARS"
+  },
+  {
+    "id": 288,
+    "name": "Té en hebras importado",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 289,
+    "name": "Té en hebras nacional sobre",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 290,
+    "name": "Té en hebras nacional frasco",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 291,
+    "name": "Hierbas materas sobre",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 293,
+    "name": "Melena de leon Gotas",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 1600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 294,
+    "name": "Extracto de vainilla 30cc",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 1100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 295,
+    "name": "Serum facial Baku",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 6000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 296,
+    "name": "Serumn facial Guava",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 6000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 297,
+    "name": "Serum Facial Aloe",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 6000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 298,
+    "name": "Crema facial Liviana Kale",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 4500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 299,
+    "name": "Serum Facial Nectar",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 5000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 300,
+    "name": "Bruma Té Verde",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 4400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 301,
+    "name": "Crema Corporal Goji",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 3500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 302,
+    "name": "Pastas \"Ancestral\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 2150000,
+    "currency": "ARS"
+  },
+  {
+    "id": 303,
+    "name": "Pasta Pistachos \"Ancestral\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 4000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 305,
+    "name": "Fideos \"Legume\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 306,
+    "name": "\"Jugo de Frutas\"- Durazno y Naranja con semillas de chias activada 250ml",
+    "description": "Jugo de frutas + semillas de chía activadas",
+    "image_path": "013e89961fa91aa8c49c24df316e1ea3.jpg",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 307,
+    "name": "Jugo de frutas- \"Frutilla y Naranja\" 250gr",
+    "description": "Jugo de frutas + semillas de chía activadas",
+    "image_path": "f5b82a77892156fa5429f0c8c22b5fe2.jpg",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 308,
+    "name": "\"Cerro Azul\" Alfajor dulce leche ZERO- c/STEVIA",
+    "description": null,
+    "image_path": "7ae29f6843b76bed4de39fe133208976.jpg",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 309,
+    "name": "\"Cerro Azul\" Bombones Frutales Surtidos",
+    "description": null,
+    "image_path": "a7d0d0be962486e5cfa59fb0b702095a.png",
+    "unit": "un",
+    "price_cents": 100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 310,
+    "name": "\"Cerro Azul\" Bocaditos chocolate SIN AZUCAR- c/STEVIA",
+    "description": null,
+    "image_path": "b9aeea348f16a79f6d2ba7b82f42a524.png",
+    "unit": "un",
+    "price_cents": 130000,
+    "currency": "ARS"
+  },
+  {
+    "id": 311,
+    "name": "\"Dicomere\" Premezcla Universal c/PSYLIUM s/TACC x450gr",
+    "description": null,
+    "image_path": "85191fa3f4951f6e060993d894aded61.png",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 312,
+    "name": "\"Intipan\" Tostada c/semilla vegana s/TACC 150gr",
+    "description": null,
+    "image_path": "b47eeceba6bab840d32870fce054ed75.png",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 313,
+    "name": "\"Intipan\" Tostada clasica vegana s/TACC x150gr",
+    "description": null,
+    "image_path": "2f8368c154a0c059d96628a0dd754403.png",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 314,
+    "name": "\"Limbus\" Cookies Integrales con PASAS, AVENA Y MANI (vegana)",
+    "description": null,
+    "image_path": "0dd1928cf31a94e2ee7182ee0c62b048.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 315,
+    "name": "\"Limbus\" Cookies Integral con avena y frutos secos (veganas)",
+    "description": null,
+    "image_path": "f1fc7db5f0aa5463a5f480245891cb3a.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 316,
+    "name": "\"Limbus\" Cookies Integrales con algarroba, cacao y coco (veganas)",
+    "description": null,
+    "image_path": "e537513a1836abe9377f02d5ac466a9b.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 317,
+    "name": "\"Limbus\" Cookies Integrales con proteina de arveja, avena y algarroba (veeganas)",
+    "description": null,
+    "image_path": "b2cb5cac6e74e4046d223c75cff2990d.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 318,
+    "name": "\"Limbus\" Cookies Integrales con datiles cranberries y avena (veganas)",
+    "description": null,
+    "image_path": "935ff77bc5b6d66d1e79d6a050185414.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 319,
+    "name": "\"Natural Seed\" Multisemillas s/TACC 250gr",
+    "description": null,
+    "image_path": "f2e5d2014dcebd9239f15e042df520d3.jpg",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 322,
+    "name": "\"Entrenuts\" Aceite de coco nuetro 360cc",
+    "description": null,
+    "image_path": "32b324529f3cd8464d39775221ba1833.jpg",
+    "unit": "un",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 323,
+    "name": "\"Dicomere\" Avena instantanea s/TACC",
+    "description": null,
+    "image_path": "e0294dba922df726dbfdc347fb729bfc.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 324,
+    "name": "\"Colonial\" Chocolate amargo 70% - 100gr s/azucar agregada",
+    "description": "sin tacc",
+    "image_path": "52907aef2be55ab1b66729a21faca093.webp",
+    "unit": "un",
+    "price_cents": 1050000,
+    "currency": "ARS"
+  },
+  {
+    "id": 331,
+    "name": "\"Dicomere\" Harina de trigo sarraceno integral organica s/TACC 450gr",
+    "description": null,
+    "image_path": "fdb9e235f5823bf5915109bfbc2debb2.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 336,
+    "name": "\"Dicomere\" Cafe de algarroba s/TACC 200gr",
+    "description": null,
+    "image_path": "25a23034fe44cf59473ed91d09909252.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 337,
+    "name": "\"Dicomere\" Fecula de maiz s/TACC 450gr",
+    "description": null,
+    "image_path": "d6e507b6a4baf45cd90dd096198f15c6.jpg",
+    "unit": "kg",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 338,
+    "name": "\"Dicomere\" Fecula de mandioca s/TACC 450gr",
+    "description": null,
+    "image_path": "307efadbc3a17a9a7baf684866d08905.jpg",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 339,
+    "name": "\"Dicoreme\" Polvo para hornear s/TACC 250gr",
+    "description": null,
+    "image_path": "26bcab87f9c01c5465adeb9360c1810b.jpg",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 340,
+    "name": "\"Dicomere\" Premezcla pan s/TACC c/PSYILLUM HUSK 450gr",
+    "description": null,
+    "image_path": "56d4d24f0cfb4f07c51e62ed291467b1.jpg",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 341,
+    "name": "\"Dicomere\" Premezcla pizza c/PSYILLUM HUSK - 450gr s/tacc",
+    "description": null,
+    "image_path": "99ca2ac4d6f19025c17db079cfb876ab.jpg",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 343,
+    "name": "\"DIcomere\" Rebozador de arroz s/TACC 450gr",
+    "description": null,
+    "image_path": "31b15934c5ba450eade7d27fb87c760b.jpg",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 344,
+    "name": "\"Salusin\" Sal diet baja en sodio carnes rojas",
+    "description": null,
+    "image_path": "6decb7ad715dbf59e254f8c12b46abd7.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 345,
+    "name": "\"SaintGottard\" Té Próstata- 20 saquitos",
+    "description": "Blend de hierbas y flores con uva ursi/equiseto/ortiga",
+    "image_path": "3925800f1247fd8a7a7bca75a78f3ce3.png",
+    "unit": "un",
+    "price_cents": 580000,
+    "currency": "ARS"
+  },
+  {
+    "id": 346,
+    "name": "\"Femag\" Fécula de mandioca- 1kg s/TACC",
+    "description": null,
+    "image_path": "6a51658732300b3195d141e58aece9fc.png",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 347,
+    "name": "\"SaintGottard\" Te chía - 20 saquitos",
+    "description": "Rosa mosqueta, Canela y Especias",
+    "image_path": "4c45bc2fbda7306fc43b0d9969cd2282.jpg",
+    "unit": "un",
+    "price_cents": 580000,
+    "currency": "ARS"
+  },
+  {
+    "id": 348,
+    "name": "\"SaintGottard\" Te Manzanilla, canela y sabor miel- 20 saquitos",
+    "description": null,
+    "image_path": "f067754eba1e1ce68e8aad4a8c1d50da.jpg",
+    "unit": "un",
+    "price_cents": 580000,
+    "currency": "ARS"
+  },
+  {
+    "id": 349,
+    "name": "\"SaintGottard\" Te verde (sabor cereza y frambuesa)- 20 saquitos",
+    "description": null,
+    "image_path": "2a1bb5018f2afc7192caa3e4baedc90a.jpg",
+    "unit": "un",
+    "price_cents": 580000,
+    "currency": "ARS"
+  },
+  {
+    "id": 350,
+    "name": "\"SaintGottard\" Te Anti Colesterol- 20 saquitos",
+    "description": "Blend de hierbas y especias con jengibre/ alfalfa/ alcahofa",
+    "image_path": "2816e884e36b4cebaaebc3c6ecc46239.jpg",
+    "unit": "un",
+    "price_cents": 580000,
+    "currency": "ARS"
+  },
+  {
+    "id": 351,
+    "name": "\"SaintGottard\" Te Dulces sueños- 20 saquito",
+    "description": "Blend de hierbas y flores con tilo/manzanilla/cedrón",
+    "image_path": "c42143b45f3a5c69a2c2fe20f0b0c34d.jpg",
+    "unit": "un",
+    "price_cents": 580000,
+    "currency": "ARS"
+  },
+  {
+    "id": 357,
+    "name": "\"Lyna\" Date Syrup- Jarabe de dátil s/TACC -340gr",
+    "description": "vegana",
+    "image_path": "f194de5b03ff40a330b678a578d32429.png",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 358,
+    "name": "\"Macrozen Marina\" Sal marina fina s/TACC- 500gr",
+    "description": null,
+    "image_path": "500029d8159e10a95caea4a13ce77446.png",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 359,
+    "name": "\"KonyEritritol\"+ Stevia s/TACC - 325gr",
+    "description": null,
+    "image_path": "b6412626629238255562ca760dc32d3d.png",
+    "unit": "un",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 360,
+    "name": "\"Akaguapy\" Yerba Mate orgánica molienda tradicional s/TACC- 500gr",
+    "description": null,
+    "image_path": "5976f787ee4617e8a95cbc9221785317.png",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 361,
+    "name": "Almohaditas Chocolate negro y blanco (granel)",
+    "description": null,
+    "image_path": "5319ae23b6abcfd7e40eee91c9756c2b.jpg",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 362,
+    "name": "Almohaditas Limon (a granel)",
+    "description": null,
+    "image_path": "98a3110d99b46c2f93be259999d2777e.png",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 363,
+    "name": "Sen de Hojas ( granel)",
+    "description": null,
+    "image_path": "915c0f50c685dfc549d14b85165b5c90.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 364,
+    "name": "Arroz Integral (agranel)",
+    "description": null,
+    "image_path": "afbb1059a4e9d7ea95243f5f040f8020.jpg",
+    "unit": "kg",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 365,
+    "name": "Harina de Almendra Pura (a granel)",
+    "description": null,
+    "image_path": "d815a24c6adf437ba01a593d2dfdb4a0.jpg",
+    "unit": "kg",
+    "price_cents": 2200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 366,
+    "name": "\"Kimwa\" Pan de molde s/TACC- 450gr",
+    "description": null,
+    "image_path": "e8652413b729d37ab922ab1852c1cc95.png",
+    "unit": "un",
+    "price_cents": 950000,
+    "currency": "ARS"
+  },
+  {
+    "id": 367,
+    "name": "\"Kinwa\" Pan MultiSemilla de molde s/TACC -450gr",
+    "description": null,
+    "image_path": "5fca961fa37756d8c155ba55d0d21fb1.png",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 368,
+    "name": "Budín de chocolate s/TACC",
+    "description": null,
+    "image_path": "8e204cc2d97911bcdffa717ef52c0e97.png",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 369,
+    "name": "\"Reina\" Ketosisima premezcla de chocolate keto s/TACC- 200gr",
+    "description": null,
+    "image_path": "831dce09a3cd28f5b5802ad33111ac72.png",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 370,
+    "name": "\"Kinwa\" Pan s/TACC- 185gr",
+    "description": null,
+    "image_path": "638b34e36156635ada403e6dc70b7806.png",
+    "unit": "un",
+    "price_cents": 120000,
+    "currency": "ARS"
+  },
+  {
+    "id": 371,
+    "name": "\"Ancestral\" 2 Pizzetas s/TACC 4 Porciones",
+    "description": null,
+    "image_path": "a79af48f817a03bc5c2c31d3a3097f4e.png",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 372,
+    "name": "\"Ancestral\" 2 Prepizza s/TACC 8 Porciones",
+    "description": null,
+    "image_path": "4ca6bf541e924d4566325b84858b7f31.png",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 373,
+    "name": "\"Verde Vida\" Kéfir de agua 910ml",
+    "description": null,
+    "image_path": "1127a657b22fa67c69a6caa917636f71.png",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 374,
+    "name": "\"SanaMundi\" Rebozador s/TACC- 500gr",
+    "description": "Compuesto con garbanzo-sésamo-lino",
+    "image_path": "fa5e48c9577c02defaebbc4cd4b75558.png",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 375,
+    "name": "\"El Naturalista\" Gotas Avena Sativa- 60c.c",
+    "description": "Tintura Madre",
+    "image_path": "4c1585d15cc5884758417fa6cca7a662.jpg",
+    "unit": "un",
+    "price_cents": 950000,
+    "currency": "ARS"
+  },
+  {
+    "id": 377,
+    "name": "\"VitaminWay\" Bisglicinato de Magnesio",
+    "description": "30 capsulas vegetal",
+    "image_path": "30abb85ec90b763f20986efa17c0c3a6.png",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 378,
+    "name": "Citrato de Magnesio- 30 capsulas",
+    "description": null,
+    "image_path": "c590f4c837a9402139ee904d51f12710.png",
+    "unit": "un",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 379,
+    "name": "\"InmunoVid\" Ext. seco de curcuma , Ext. seco de sauco, Ext. de pimienta negra",
+    "description": "30 Capsulas",
+    "image_path": "671783113186a9bccf0f6e4dbf99a756.jpg",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 380,
+    "name": "\"VitaminWay\" Vitamina D 4000 UI con magnesio",
+    "description": "30 Capsulas",
+    "image_path": "2c7b99b25cdd69e72011a79253c25908.jpg",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 381,
+    "name": "\"Incaico\" Ginkgo 80 forte",
+    "description": "30 comprimidos",
+    "image_path": "91805b0d324e57ec9e14b3f684074347.jpg",
+    "unit": "un",
+    "price_cents": 1100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 383,
+    "name": "\"Incaico\" Curcuma, jengibre y pimienta negra",
+    "description": "30 Capsulas",
+    "image_path": "ef0df3c1e314c4b90cbb5fe5391b2d0e.jpg",
+    "unit": "un",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 384,
+    "name": "\"El Naturalista\" Zinc",
+    "description": "30 comprimidos",
+    "image_path": "971043628b485a380e05ced4b4585465.jpg",
+    "unit": "un",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 385,
+    "name": "\"VitaminWay\" Probioticos + Prebiotico",
+    "description": "30 Capsulas vegetales",
+    "image_path": "66f47b602c50f238457a06a3bedaf2a2.jpg",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 386,
+    "name": "\"VitaminWay\" Vitamina E 400 UI(Antioxidante) con selenio+Q10",
+    "description": "30 Capsilas vegetales",
+    "image_path": "13f235ad4ffc8ab52e94b53bc3c6dea9.jpg",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 387,
+    "name": "\"VitaminWay\" Vitamina C con zinc",
+    "description": "30 Capsulas",
+    "image_path": "603ef81e2cb9a0abea066c73674aefb5.jpg",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 388,
+    "name": "\"MixMe\" Maní tostado con miel, pimienta y limón- 124gr",
+    "description": null,
+    "image_path": "a968ae2e9b21f7c31cbe6d7b8d03bca5.jpg",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 389,
+    "name": "\"MixMe\" Mix de frutos secos con merken (pretzels, almendras, avellanas y maní con merken ahumado)- 125gr",
+    "description": null,
+    "image_path": "8235d9338f032e56456b5e1110ac12da.jpg",
+    "unit": "un",
+    "price_cents": 750000,
+    "currency": "ARS"
+  },
+  {
+    "id": 390,
+    "name": "\"MixMe\" Almendras tostadas con miel y coco- 125gr",
+    "description": null,
+    "image_path": "633c628b9cddc4ec4f419ff9e196ba82.jpg",
+    "unit": "un",
+    "price_cents": 750000,
+    "currency": "ARS"
+  },
+  {
+    "id": 391,
+    "name": "\"MixMe\" Frutos secos tostados con miel y sal ( mezcla de almendras, maní, castañas de cajú y pistachos con miel y sal)- 125gr",
+    "description": null,
+    "image_path": "52f2229d577a73f9c0dd9e98831b89f1.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 392,
+    "name": "\"MixMe\" Pretzels picantes con miel y merken ahumado- 50gr",
+    "description": null,
+    "image_path": "e734c1a223f66562c20ed66253319d6d.jpg",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 393,
+    "name": "\"MixMe\" Cajú tostado con miel y cayena- 115gr",
+    "description": null,
+    "image_path": "f5dfe08e5ed93f53019448c8c58ef111.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 394,
+    "name": "\"MixMe\" Mix supermixme con almeendras con coco, maní, garrapiñada, cereales, zapallo y coco en escamas- 125gr",
+    "description": null,
+    "image_path": "1e6689ba09f03343075fdf9e2d700e87.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 395,
+    "name": "\"MixMe\" Pretzels bañados en chocolate- 80gr",
+    "description": null,
+    "image_path": "c6e3f6c703abcd48eb5a1249f7ab673d.png",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 396,
+    "name": "\"MixMe\" Dátiles medjool rellenos de pistacho, bañados en chocolate semiamargo con polvo de pistacho- 3 unidades/ 80 gr",
+    "description": null,
+    "image_path": "f941c5915faa3c8e702bdda8a4f8a7b3.png",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 398,
+    "name": "\"MixMe\" Pistacho con chocolate semiamargo- 90gr",
+    "description": null,
+    "image_path": "40d0152e1c11c2dd6169e90fc4ebf843.png",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 399,
+    "name": "\"MixMe\" Quinoa con chocolate- 70gr",
+    "description": null,
+    "image_path": "e24723a538535d0cdf6fcc8c856854b6.png",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 400,
+    "name": "\"Natier\" Fitonutrientes Clorofila magnesio y vitamina C- 500cm",
+    "description": "Sabor menta/ 100% vegetal",
+    "image_path": "c8895b94aa3300aa366366dd92c685b9.png",
+    "unit": "un",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 401,
+    "name": "\"LabsNutrition\" Ashwagandha extracto orgánico de raíz",
+    "description": "60 Capsulas",
+    "image_path": "6f0403f76017e27fce673fd8693bad6d.jpg",
+    "unit": "un",
+    "price_cents": 5000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 402,
+    "name": "\"Las Nutrition\" Melena de león- Hericium Erinaceus 500mg/100% pura",
+    "description": "60 Cápsulas/ 30 días",
+    "image_path": "f8fd860935b15d1e86e8200ecb70e620.jpg",
+    "unit": "un",
+    "price_cents": 5000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 403,
+    "name": "\"Amande\" Leche de almendra 1L liviana s/TACC",
+    "description": null,
+    "image_path": "0d36c7ef7bcc37baab35e028329593c3.webp",
+    "unit": "un",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 404,
+    "name": "\"Muecas\" Barra cereal cacao y avellana- 45gr",
+    "description": null,
+    "image_path": "80fb3ed9e6c9f338adc902ea4fb439a0.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 405,
+    "name": "\"Dicomere\" Albúmina de huevo pasteurizado en polvo s/TACC- 120gr",
+    "description": null,
+    "image_path": "c2db37e8087e7efa96782ac8bc4113f0.webp",
+    "unit": "un",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 406,
+    "name": "\"Hierbas de Oasis\" Aceite de rosa mosqueta- 60cc",
+    "description": null,
+    "image_path": "ee89143cea60e416e0bf5a00096fdf17.jpg",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 407,
+    "name": "\"Natier\" Gotas de aceite oregano, vitamina E- 30ml",
+    "description": null,
+    "image_path": "059213db038d062a92c7c17c01fceac1.webp",
+    "unit": "un",
+    "price_cents": 3200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 408,
+    "name": "\"Dicomere\" Premezcla proteica s/TACC Universal Integral- 450g",
+    "description": null,
+    "image_path": "34d31b48725c4b7b6a4f5bd5f54cb97b.webp",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 409,
+    "name": "\"Felices las Vacas\" Queso untable clasico X 200gr",
+    "description": null,
+    "image_path": "a8267e0746f610bb1aa64e6527141998.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 410,
+    "name": "\"Bygiro\" Pancakes con cacao y chocolate X268gr",
+    "description": "4 unidades",
+    "image_path": "75c446121c96a5d2210d250b4db98cbc.webp",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 411,
+    "name": "\"Bygiro\" Pancakes de avena con frutos x268gr",
+    "description": "4 unidades",
+    "image_path": "c20dbfa6a7b2d1a6543a62e427e0fe3c.webp",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 412,
+    "name": "\"Natier\" Agua viva frutas deshidratadas (limon+ naranja & pomelo) x100gr",
+    "description": null,
+    "image_path": "ad64878ca698a5893e8e9c4188e36224.webp",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 413,
+    "name": "\"Burganas\" Medallones de tomate seco y aduki- 460g",
+    "description": "4 unidades",
+    "image_path": "dfa00ea1f9772d757356e84ff077bd3c.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 414,
+    "name": "\"Burganas\" Medallones de espinaca y arvejas- 460gr",
+    "description": "4 unidades",
+    "image_path": "3be6bd51f86c2e1480f83fe46b1dd675.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 416,
+    "name": "\"Mundo Vegetal\" Rebozador Proteico de quinoa, semillas y arvejas s/TACC- 350gr",
+    "description": null,
+    "image_path": "882ed9a9994a97566449fc5ccaf689d0.webp",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 417,
+    "name": "\"Vento\" Pan proteico keto (harina de almendra)- 700gr",
+    "description": null,
+    "image_path": "abd281c2ab6a5e1158d387591d132afa.webp",
+    "unit": "un",
+    "price_cents": 2300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 418,
+    "name": "\"Hashi\" Salsa teriyaki- 250ml",
+    "description": null,
+    "image_path": "9f0198e473b6e38dacfcae62a472691d.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 419,
+    "name": "\"Nuestros Sabores\"Tostaditas arroz y lupino provoleta-50g",
+    "description": null,
+    "image_path": "c79bd34b46531444cd9e82fa4766453d.webp",
+    "unit": "un",
+    "price_cents": 180000,
+    "currency": "ARS"
+  },
+  {
+    "id": 420,
+    "name": "\"Nuestros Sabores\" Tostaditas de arroz y lupino sabor tomate, lima y cilantro - 50 gr",
+    "description": null,
+    "image_path": "cc15aed282680a1e855c9677749cb703.webp",
+    "unit": "un",
+    "price_cents": 180000,
+    "currency": "ARS"
+  },
+  {
+    "id": 421,
+    "name": "\"Nuestros Sabores\" Chips de papas con picante Thai- 80g",
+    "description": null,
+    "image_path": "e9673cefc051fe3d96489b505e837331.webp",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 422,
+    "name": "\"Nuestros Sabores\" Chips de mandioca y sal marina - 80 grs",
+    "description": null,
+    "image_path": "98bfa580c6fac61d8e8e3f7cb54f528d.jpg",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 423,
+    "name": "\"Nuestros Sabores\" Chips de papas rusticas con sal marina- 80g",
+    "description": null,
+    "image_path": "25dca8ff5ed8102717c960b5bbab6f25.webp",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 424,
+    "name": "\"Nuestros Sabores\" Chips tortilla de maíz y chia- 80g",
+    "description": null,
+    "image_path": "c6e703247a1ca72f2a5c5dc36413069a.jpg",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 425,
+    "name": "\"Burganas\" Medallones de lentejas yamani",
+    "description": "4 unidades",
+    "image_path": "0c4610953b20b74c4387274d1e1605b4.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 426,
+    "name": "\"Felices las Vacas\" Hummus de garbanzo vegano- 220grs",
+    "description": null,
+    "image_path": "05fd8b25a546fa5d50a97fcd6936301a.jpg",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 427,
+    "name": "\"Felices las Vacas\" Dulce de leche de almendra- 250gr",
+    "description": null,
+    "image_path": "0d1fc8fbcbfd4a801569f281ef4b2bfe.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 428,
+    "name": "\"Felices las Vacas\" Big classic medallon de soja- 115gr",
+    "description": "2 unidades",
+    "image_path": "bf9d35956ae97f232fc3514da11cf141.webp",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 429,
+    "name": "\"Felices las Vacas\" Chicken vil party medallon- 115gr",
+    "description": "2 unidades",
+    "image_path": "83f20c8c19e5f2da0a18b8fdf741eb70.webp",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 430,
+    "name": "\"Mundo Vegetal\" Milanesas de garbanzos y boniato (rebozadas de quinoa y semillas)- 400gr",
+    "description": null,
+    "image_path": "bce81909f3946585ad8a514546ecf7dc.jpg",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 431,
+    "name": "\"Smams\" Budin marmolado s/TACC- 250gr",
+    "description": null,
+    "image_path": "8a1c9ddafbc8235d55c588add6f74c18.webp",
+    "unit": "un",
+    "price_cents": 750000,
+    "currency": "ARS"
+  },
+  {
+    "id": 432,
+    "name": "\"Smams\" Budin limon s/TACC- 250gr",
+    "description": null,
+    "image_path": "af31df46800daf26c6e8b015f0a5b148.webp",
+    "unit": "un",
+    "price_cents": 680000,
+    "currency": "ARS"
+  },
+  {
+    "id": 433,
+    "name": "\"Smams\" Chips chocolate s/TACC- 150gr",
+    "description": null,
+    "image_path": "5af1152cda731a19d5b747feb9ed6f84.jpg",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 434,
+    "name": "\"Sakanashi\" Salsa de soja 50cc Et Amarilla",
+    "description": null,
+    "image_path": "3e4b804052d060fa092099162564594d.webp",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 435,
+    "name": "\"Vita Biosa\" Probiota natural x500ml",
+    "description": null,
+    "image_path": "27a0d74d7a802b49c635f306060b166e.png",
+    "unit": "un",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 436,
+    "name": "\"Vita Biosa\" Probiota sabor naranja x500ml",
+    "description": null,
+    "image_path": "d6550c9be17c00eaa21d4ff08d7e37e4.jpg",
+    "unit": "un",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 437,
+    "name": "\"Vita Biosa\" Probiota sabor frutilla x500ml",
+    "description": null,
+    "image_path": "9e5fbf781e621adf3658c7d3435d82cd.jpg",
+    "unit": "un",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 438,
+    "name": "\"Lenny´s\" Pitachips sal marina-150gr",
+    "description": null,
+    "image_path": "49586b7174309bf4266506606d42047a.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 439,
+    "name": "\"Nutrileva\"  Levadura de cerveza en polvo s/TACC- 500gr",
+    "description": null,
+    "image_path": "c39958650d930e350fe407bdbcc7bdaa.jpg",
+    "unit": "un",
+    "price_cents": 2200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 440,
+    "name": "\"Nutrileva\" Levadura de cerveza en polvo s/TACC-200gr",
+    "description": null,
+    "image_path": "7c5fe5b10814e79aa1e5c45e8692d1f7.jpg",
+    "unit": "un",
+    "price_cents": 1700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 441,
+    "name": "\"PuraFrutta\" Jugo 100% Exprimido Green Detox x 1L",
+    "description": null,
+    "image_path": "f62c223a047c9246f9120688da5beb66.jpg",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 442,
+    "name": "\"PuraFrutta\" Jugo exprimido arandano y manzana 1TL",
+    "description": null,
+    "image_path": "6c7c8d2d0869278ee157bd879a6854d7.webp",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 443,
+    "name": "\"SchÄr\" Mix practico s/TACC maiz harina- 1Kg",
+    "description": null,
+    "image_path": "7b21d11373b195cb452dca0cd464d58f.webp",
+    "unit": "un",
+    "price_cents": 1600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 444,
+    "name": "\"Doña Magdalena\" Dulce de leche sin fructuosa con stevia -400gr",
+    "description": null,
+    "image_path": "d65504a16de5a58d7224dcde1b2d7dac.webp",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 445,
+    "name": "\"Integra\" Barra semillas arandanos s/TACC- 38 Gr Integra",
+    "description": null,
+    "image_path": "5ec5a041dc4e924bc974d4800e2afb64.webp",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 446,
+    "name": "\"Schar\" Premezcla mix de harinas premium s/TACC- 500gr",
+    "description": null,
+    "image_path": "fb257ab959b090954ac357463e1a439d.jpg",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 447,
+    "name": "Stevia durli cristalizada en polvo(eritritol+stevia)- 150gr",
+    "description": null,
+    "image_path": "429eded71d7ddc56964e6ea78624ccd5.webp",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 448,
+    "name": "\"Granger\" Premezcla proteico chía puddings maní y cacao-280gr",
+    "description": null,
+    "image_path": "8e0d790ddcca99183f51e1cbe02be04a.webp",
+    "unit": "un",
+    "price_cents": 1400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 449,
+    "name": "\"Integra\" Barrita de chocolate con coco y dulce de leche- 41gr",
+    "description": null,
+    "image_path": "88ba3ff3165bbb848e156abf901479c5.webp",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 450,
+    "name": "\"Lenny's\" Pitachips zapallo-150gr",
+    "description": null,
+    "image_path": "c0b1b3f696a7587a9ae9b749e91ce555.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 451,
+    "name": "\"Smookies Baby\" Galletitas de vainilla- 15gr",
+    "description": null,
+    "image_path": "d3e74837bdab52f269fa61a907fe1c6f.jpg",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 452,
+    "name": "\"Smookies Baby\" Galletitas sabr manzana- 150gr",
+    "description": null,
+    "image_path": "137d0d885d4bf553f535a7dfe8609034.jpg",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 453,
+    "name": "\"Brotes\" Harina de trigo orgánica integral extra fina- 1kg",
+    "description": null,
+    "image_path": "e1a455d4f7740eb96a3f1e5a582ac08e.png",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 454,
+    "name": "\"Crudda\" Barra de proteina de coco y chocolate- 40g",
+    "description": null,
+    "image_path": "21e0fb7d8a649202508c1b8f275ef1af.webp",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 455,
+    "name": "\"Integra\" Barra proteica  maní y chocolate- 45gr",
+    "description": null,
+    "image_path": "bcc551d02a475001171265bfb4a689d6.webp",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 456,
+    "name": "Caramelo de propoleo- c/u",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 25000,
+    "currency": "ARS"
+  },
+  {
+    "id": 457,
+    "name": "\"Integra\" Barra proteica maní y arandanos- 45gr",
+    "description": null,
+    "image_path": "6949e5d4ae0d503fc1013baa87abf032.webp",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 459,
+    "name": "\"Molé\" Creatina monohidrato micronizada- 450gr",
+    "description": null,
+    "image_path": "cc8fae7686449a0909764dd9f4297221.webp",
+    "unit": "un",
+    "price_cents": 4500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 460,
+    "name": "\"Party bech rice\" Spaghetti de arroz con espinaca s/TACC- 280gr",
+    "description": null,
+    "image_path": "52640894e3bae6c324856d10fac35cc9.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 461,
+    "name": "\"Party bech rice\" Spaghetti de arroz con morrón s/TACC- 280gr",
+    "description": null,
+    "image_path": "043cd003f54c6996e6cac7161fa48962.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 462,
+    "name": "\"Party bech rice\" Spaghetti de arroz- 280gr",
+    "description": null,
+    "image_path": "fff3af4b44bcbd726ad268136adaba74.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 463,
+    "name": "\"SanaMundi\" Premezcla para pan y pizza con harina de quinoa s/TACC-  500gr",
+    "description": null,
+    "image_path": "11289d6cf6c974dd956ba223e32530d6.webp",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 464,
+    "name": "\"SanaMundi\" Premezcla universal con proteína vegetales- 500gr",
+    "description": null,
+    "image_path": "a57c4726c456f0fe9cbbb655ccd6b90c.webp",
+    "unit": "un",
+    "price_cents": 650000,
+    "currency": "ARS"
+  },
+  {
+    "id": 465,
+    "name": "\"Chacabuco\" Blend de harinas con legumbres y semillas uso universal (garbanzo, quinoa y amaranto)- 400gr",
+    "description": null,
+    "image_path": "4d076ba78321431b2762f8ece82a6cc0.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 466,
+    "name": "\"Chacabuco\" Blend de harina especial para masa madre uso universal (trigo serraceno, garbanzos y arroz)- 400gr",
+    "description": null,
+    "image_path": "945a9e2ad587922a664af46a3e12ef52.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 467,
+    "name": "\"Dicomere\" Harina de arvejas s/TACC- 450gr",
+    "description": null,
+    "image_path": "f33c8a0aaf110ec0e281674bb079ac1c.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 468,
+    "name": "Tomillo (granel)",
+    "description": null,
+    "image_path": "a4c01cfe486bc39ebb11147b2561f4a5.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 469,
+    "name": "Ajimoto (granel)",
+    "description": null,
+    "image_path": "678c6690dcbb8e882f8d655ddea3198c.webp",
+    "unit": "kg",
+    "price_cents": 4000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 470,
+    "name": "Gelatina sin sabor (granel)",
+    "description": null,
+    "image_path": "96583054d21508c736b51df93520aa2b.jpg",
+    "unit": "kg",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 471,
+    "name": "Pimentón Ahumado (granel)",
+    "description": null,
+    "image_path": "b9c3f62d4299fd374dfadb3a6931338f.png",
+    "unit": "kg",
+    "price_cents": 2200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 472,
+    "name": "Pimentón común (granel)",
+    "description": null,
+    "image_path": "9da9115dc14e5b986b8155916da419fd.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 473,
+    "name": "Ají Merken (granel)",
+    "description": null,
+    "image_path": "a42ad06958383ad6b5d01e2849bd87f4.webp",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 474,
+    "name": "Ajo Molido (granel)",
+    "description": null,
+    "image_path": "e26e0ce9481547fcf933dbdb322893d8.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 475,
+    "name": "Té Negro (granel)",
+    "description": null,
+    "image_path": "cbafc8f553886347f0142ecb0acbce5c.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 476,
+    "name": "Canela (granel)",
+    "description": null,
+    "image_path": "d6be01399555f4f8a83ce6aec4d8f939.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 477,
+    "name": "Té Rojo (granel)",
+    "description": null,
+    "image_path": "3ad626ca435b1a19b288a0b6a9a7e5d7.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 478,
+    "name": "Sal Himalaya gruesa (granel)",
+    "description": null,
+    "image_path": "6dd479c0a8a694aca18dd84e256e51ad.jpg",
+    "unit": "kg",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 479,
+    "name": "Sal Himalaya fina (granel)",
+    "description": null,
+    "image_path": "2763b44855ba31a675612c3b8f702607.jpg",
+    "unit": "kg",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 480,
+    "name": "Chimichurry (granel)",
+    "description": null,
+    "image_path": "62a9ea312668a1932e2b45d6b476d716.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 489,
+    "name": "Jengibre (granel)",
+    "description": null,
+    "image_path": "e0aef08953735796e9392a717dac6e7d.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 490,
+    "name": "Oregano (granel)",
+    "description": null,
+    "image_path": "00e7f316cccec53f0665126a02a4ef6c.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 491,
+    "name": "Curcuma (granel)",
+    "description": null,
+    "image_path": "31b7eff696719045fbc9ebd03fee4e8d.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 492,
+    "name": "Curry (granel)",
+    "description": null,
+    "image_path": "39b6553b2ad41d83de14b419c36703f7.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 493,
+    "name": "Mix Pimienta (granel)",
+    "description": null,
+    "image_path": "236a772dd4a246547e998d67ae7b1dd6.jpg",
+    "unit": "kg",
+    "price_cents": 8000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 494,
+    "name": "Pimienta blanca molida (granel)",
+    "description": null,
+    "image_path": "1f41e22283292dae002282b01f1151b1.webp",
+    "unit": "kg",
+    "price_cents": 8500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 495,
+    "name": "Pimienta Negra Molida (granel)",
+    "description": null,
+    "image_path": "34be9dcc6ff6ef49532bb0a4e728135c.jpg",
+    "unit": "kg",
+    "price_cents": 7000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 496,
+    "name": "Pimienta Negra Grano (granel)",
+    "description": null,
+    "image_path": "fa5e0736e3c995900e7e5d0fd84423fe.jpg",
+    "unit": "kg",
+    "price_cents": 7000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 507,
+    "name": "Eucalipto (granel)",
+    "description": null,
+    "image_path": "773dc11e97b7071a8898355a06cb1121.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 515,
+    "name": "Pajaro Bobo (granel)",
+    "description": null,
+    "image_path": "9d8d81480a9aa9b54beabaf09e67a979.webp",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 550,
+    "name": "Semilla de Lino Dorado (granel)",
+    "description": null,
+    "image_path": "0a6f72531584be47a3e909900bf76835.jpg",
+    "unit": "kg",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 551,
+    "name": "Quinoa Pop Arandanos (granel)",
+    "description": null,
+    "image_path": "eb0f167b6dd0ffc8b519b95c51d672a5.webp",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 552,
+    "name": "Quinoa Tricolor (granel)",
+    "description": null,
+    "image_path": "04163f4474a1cbfacfc2c14a44e7a2ec.jpg",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 553,
+    "name": "Quinoa (granel)",
+    "description": null,
+    "image_path": "7f06591a07a0c0570168aacbadfcb922.webp",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 554,
+    "name": "Mix Semillas (granel)",
+    "description": null,
+    "image_path": "b2975f0f5a2b667e212aa9b8fd4a303b.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 555,
+    "name": "Sesamo Blanco (granel)",
+    "description": null,
+    "image_path": "03227aa6ea5baf3dd730a23cb6fffe0d.jpg",
+    "unit": "kg",
+    "price_cents": 1600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 556,
+    "name": "Sesamo Integral (granel)",
+    "description": null,
+    "image_path": "86a34051ac695abaff80ae8f2d49eae9.webp",
+    "unit": "kg",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 557,
+    "name": "Soja Texturizada (granel)",
+    "description": null,
+    "image_path": "51573a4efc211c52bfa8bafa0899b19f.webp",
+    "unit": "kg",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 558,
+    "name": "Harina Garbanzo (granel)",
+    "description": null,
+    "image_path": "ded8f86fa4ea6f8afee11e4ee4a2966a.jpg",
+    "unit": "kg",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 559,
+    "name": "Germen de Trigo (granel)",
+    "description": null,
+    "image_path": "425edcfd061f891220b426a9d6975077.jpg",
+    "unit": "kg",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 560,
+    "name": "Harina de coco \"Dicomere\"",
+    "description": null,
+    "image_path": "c0950357c6c65998bfd3b832cf1b87df.webp",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 561,
+    "name": "Calendula (granel)",
+    "description": null,
+    "image_path": "4a369e05d5445ee4835631943acba685.webp",
+    "unit": "kg",
+    "price_cents": 5000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 562,
+    "name": "Spirulina en polvo (granel)",
+    "description": null,
+    "image_path": "c44445eedf15814ec09fd1802d1e29ff.webp",
+    "unit": "kg",
+    "price_cents": 7000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 563,
+    "name": "Aji Molido Grueso (granel)",
+    "description": null,
+    "image_path": "6ff8b73e038fb7889de21675c4f0b988.jpg",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 564,
+    "name": "Pimienta de Jamaica grano (granel)",
+    "description": null,
+    "image_path": "e92217a2415d2b80bc1b84c9b12dc2e4.webp",
+    "unit": "kg",
+    "price_cents": 5000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 565,
+    "name": "Perejil (granel)",
+    "description": null,
+    "image_path": "7c9b64cd5f91afae820be4673ecc6857.webp",
+    "unit": "kg",
+    "price_cents": 2200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 566,
+    "name": "Juliana sin Papas (granel)",
+    "description": null,
+    "image_path": "3a89b1b2dae2542f86e91a19ddc17031.jpg",
+    "unit": "kg",
+    "price_cents": 2800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 567,
+    "name": "Cebolla Escama (granel)",
+    "description": null,
+    "image_path": "64b692c44c3c0e48f365ae5e3cf13906.png",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 568,
+    "name": "Comino en polvo (granel)",
+    "description": null,
+    "image_path": "00d86584a99e39e65e66315391940a3e.webp",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 569,
+    "name": "Provenzal (granel)",
+    "description": null,
+    "image_path": "1e14b87ce7b3e5bcb2b0de7d56880bf3.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 570,
+    "name": "Cayena Mlida (granel)",
+    "description": null,
+    "image_path": "c00c797b6e15306f3c1e8f30245217f2.webp",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 571,
+    "name": "Cascara Sagrada (granel)",
+    "description": null,
+    "image_path": "ef15be6506a8fbec8dbe06fbd222ca86.png",
+    "unit": "kg",
+    "price_cents": 4100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 572,
+    "name": "\"Regidiet\" Dulce de leche s/azucar-445gr",
+    "description": null,
+    "image_path": "6fac39be3b1d80f6a31ac4c2586aa838.webp",
+    "unit": null,
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 573,
+    "name": "Ajo en polvo (granel)",
+    "description": null,
+    "image_path": "c7d9d4cf190c5efcca701bba76811a01.webp",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 574,
+    "name": "Almohaditas Avellana (granel)",
+    "description": null,
+    "image_path": "2218bce322b1cf546443d1d8055e90fc.webp",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 575,
+    "name": "Pasas de Uva Rubias (granel)",
+    "description": null,
+    "image_path": "47ac8fd460522d16aa47a9107e50ff11.webp",
+    "unit": "kg",
+    "price_cents": 1300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 576,
+    "name": "Banana Seca (granel)",
+    "description": null,
+    "image_path": "a6f39147e21f14f15c68430b2ff8d86f.jpg",
+    "unit": "kg",
+    "price_cents": 2200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 577,
+    "name": "Higos deshidratados (granel)",
+    "description": null,
+    "image_path": "175591875df92227309af25dbec5dac1.jpg",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 578,
+    "name": "Rosa Mosqueta (granel)",
+    "description": null,
+    "image_path": "795b0771ce418f34140667eb009dc200.webp",
+    "unit": "kg",
+    "price_cents": 6500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 579,
+    "name": "Nuez (granel)",
+    "description": null,
+    "image_path": "5e472ede953ba3d6d16c498adb430252.webp",
+    "unit": "kg",
+    "price_cents": 3200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 580,
+    "name": "Maiz Frito (granel)",
+    "description": null,
+    "image_path": "1e6d44d2ebc76c4d35d114299e27f6c0.webp",
+    "unit": "kg",
+    "price_cents": 2200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 581,
+    "name": "\"Colonial\" Chocolatinas con stevia 70% cacao s/TACC-5gr",
+    "description": null,
+    "image_path": "a6080fa2d9d0a135c7e8e30fe6a6f7c9.jpg",
+    "unit": "un",
+    "price_cents": 80000,
+    "currency": "ARS"
+  },
+  {
+    "id": 582,
+    "name": "\"La Zaranda\" Galletas de avena y chia, manzana y almendra/sin azucar- 200gr",
+    "description": null,
+    "image_path": "f8829d0c492595332c4ada192262e1c6.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 583,
+    "name": "\"La Zaranda\" Galletas de avena y chia dulce de leche/sin azucar- 200gr",
+    "description": null,
+    "image_path": "a7ace5e9a34ccdd14047c0ca845dc688.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 584,
+    "name": "\"La Zaranda\" Galletas de avena y chia algarrobay frutos del bosque/ sin azucar- 200gr",
+    "description": null,
+    "image_path": "657431e4bb18ca16650f852a11d41214.png",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 585,
+    "name": "\"Granger\" Pancakes proteicos veganos sabor chocolate- 400 g",
+    "description": null,
+    "image_path": "17aec9706269a8ad797ce41ecb412725.jpg",
+    "unit": "un",
+    "price_cents": 2100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 586,
+    "name": "\"Ki-Bar\" Barra proteica de frutos rojos- 40gr",
+    "description": null,
+    "image_path": "0dcf002260ab9293c2aa18e2c343e134.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 587,
+    "name": "\"Ki-Bar\" Barra Proteica de coco-40gr",
+    "description": null,
+    "image_path": "f7a7dd6b5413d450b4f83d57b48e5629.webp",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 588,
+    "name": "\"Ena\" Protein sabor chocolate- 25gr",
+    "description": null,
+    "image_path": "758043b9df76b6cf38b59f9397eb3048.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 590,
+    "name": "\"Oasis\" Gotas cardo mariano",
+    "description": null,
+    "image_path": "ec24e9843f5ec4d921d1f502857ed605.webp",
+    "unit": "un",
+    "price_cents": 100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 591,
+    "name": "\"Granger\" Premezcla Galletas proteicas",
+    "description": null,
+    "image_path": "d84bddb18bcee1541a3d1acae3032bb7.jpg",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 592,
+    "name": "\"Granger\" Premezcla Pancakes salados proteicos",
+    "description": null,
+    "image_path": "c17f5e6385601716baf8be07e089a621.webp",
+    "unit": "un",
+    "price_cents": 2100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 594,
+    "name": "\"Dicomere\" Sal Marina fina s/TACC",
+    "description": null,
+    "image_path": "085bce2e6b91d57cd45cc3277a363c97.jpg",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 595,
+    "name": "Garbanzos (granel)",
+    "description": null,
+    "image_path": "deef24d60ed9cc215c05fa8e295a31cb.jpg",
+    "unit": "kg",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 596,
+    "name": "Arvejas (granel)",
+    "description": null,
+    "image_path": "3ec040152262088841eb163521327179.jpg",
+    "unit": "kg",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 597,
+    "name": "Lenteja (granel)",
+    "description": null,
+    "image_path": "2381b53c7bf26926fcd92fbe4031f666.jpg",
+    "unit": "kg",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 598,
+    "name": "Chips de Chocolate (granel)",
+    "description": null,
+    "image_path": "21087d2270072fcea35c8f1031d78f99.webp",
+    "unit": "kg",
+    "price_cents": 2600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 599,
+    "name": "Porotos de Soja (granel)",
+    "description": null,
+    "image_path": "f2f73e781f1b3a6402b9e0bc71e76c6e.jpg",
+    "unit": "kg",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 600,
+    "name": "Maiz Blanco Pisado (granel)",
+    "description": null,
+    "image_path": "36868d6c8f4dbed1e83090ac13e6863d.jpg",
+    "unit": "kg",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 601,
+    "name": "Lenteja Turca (granel)",
+    "description": null,
+    "image_path": "cc899a960d292297436d36ef52892103.png",
+    "unit": "kg",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 602,
+    "name": "Cereal/ Caritas de Dulce de Leche (granel)",
+    "description": null,
+    "image_path": "53209fef9776ac0283f48275d710faa5.jpg",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 603,
+    "name": "Cereal/ Copos de Chocolate (granel)",
+    "description": null,
+    "image_path": "fa29ea47920dace741b0cdc01296e7a8.webp",
+    "unit": "kg",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 604,
+    "name": "Cereal/ Florcitas de Frutos Rojos (granel)",
+    "description": null,
+    "image_path": "ded3f1be11375bb06639e2111cceecfb.jpg",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 605,
+    "name": "Cereal/ Arroz Yamani Inflado (granel)",
+    "description": null,
+    "image_path": "a907f695b818cf8d9743c1f1d51fc535.webp",
+    "unit": "kg",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 606,
+    "name": "\"Jual\" Stevia en polvo 220gr",
+    "description": null,
+    "image_path": "4793610c33fca740193ab00852e681b4.webp",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 607,
+    "name": "\"Jual\" Stevia Liquido 100cc",
+    "description": null,
+    "image_path": "180826abeb92f34e897efdb3813b83c8.webp",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 608,
+    "name": "jugo de arandano",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 609,
+    "name": "Harina de Chia (granel)",
+    "description": null,
+    "image_path": "ecacfce61b5337f616785bf040c1a77d.webp",
+    "unit": "kg",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 610,
+    "name": "Mix Clasico Frutos Secos (granel)",
+    "description": null,
+    "image_path": "2a20819b6b7214536c4303ddc0351cfb.jpg",
+    "unit": "kg",
+    "price_cents": 3500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 612,
+    "name": "Te matcha",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 613,
+    "name": "Pata de mani \"De uco\" Proteica",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 850000,
+    "currency": "ARS"
+  },
+  {
+    "id": 614,
+    "name": "\"Granger\" Gelatina de frutilla con colageno y vitamina C- 150gr",
+    "description": null,
+    "image_path": "d10945ad3ec830d08c7e1b6148aee79e.jpg",
+    "unit": "un",
+    "price_cents": 1600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 615,
+    "name": "\"Granger\" Gelatina de durazco con colageno y vitamina C-150gr",
+    "description": null,
+    "image_path": "6f8fcee095b0087c1ce6f290041fa766.webp",
+    "unit": "un",
+    "price_cents": 1600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 616,
+    "name": "\"Granger\" Premezcla pancakes de chocolate proteeico- 400gr",
+    "description": null,
+    "image_path": "aeebe473cb425d8567efae1fd439dd3e.webp",
+    "unit": "un",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 617,
+    "name": "\"Grager\" Premezcla keto pancakes sabor vainilla, hecho con almendra y coco- 200gr",
+    "description": null,
+    "image_path": "244edfcc705ab86c309d6d781a2fc873.webp",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 618,
+    "name": "\"Granger\" Proteina de arveejas natural- 750gr",
+    "description": null,
+    "image_path": "4c8aa7760105643a38185e858f707e2f.webp",
+    "unit": "un",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 619,
+    "name": "\"Schar\" Pan blanco rebanado s/TACC- 200gr",
+    "description": null,
+    "image_path": "23d8b415e47e261ff5f0c8f13dc1928d.jpg",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 620,
+    "name": "\"Chaokoh\" Coconut Milk (leche de coco)- 165ml",
+    "description": null,
+    "image_path": "104e82867d58a49befc74980af626891.webp",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 621,
+    "name": "\"Granger\" Creatina Monohidrato Micronizada - 300gr",
+    "description": null,
+    "image_path": "830d87a726f5e4d268426e6b2b49619c.webp",
+    "unit": "un",
+    "price_cents": 4000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 622,
+    "name": "\"Pont\" Energy gel + cafeina sabor moras, frambuesas e hibiscus- 43gr",
+    "description": null,
+    "image_path": "f5b2e0c8258560c8bf7a518d55ad709f.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 623,
+    "name": "\"Pont\" Gel energy con cafeina, sabor mango y meracuya-45gr",
+    "description": null,
+    "image_path": "27f3b21309755d06fe937d69e5dd24c6.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 624,
+    "name": "Aritos de color (granel)",
+    "description": null,
+    "image_path": "85e178cebe98679fde9db6ae94405269.jpg",
+    "unit": "kg",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 625,
+    "name": "\"LasFor\" Bolitas de chocolatadas- 180gr",
+    "description": null,
+    "image_path": "8524abf90de1137aaa29348e35429fb5.webp",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 626,
+    "name": "Tofu",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 627,
+    "name": "\"La Zaranda\" Galletas de avena y chia sabor naranja s/TACC- 200gr",
+    "description": null,
+    "image_path": "18b7cee09257b51cb026af3f6b1ddfe4.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 628,
+    "name": "\"La Zaranda\" Galletas de avena y chia,  sabor limon s/TACC- 200gr",
+    "description": null,
+    "image_path": "8818f3e8bd68e68897543ab219a97b53.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 629,
+    "name": "\"Las Zaranda\" Galletas de avena y chia, sabor algarrobo y naranja- 200gr",
+    "description": null,
+    "image_path": "27e84057f66a1a382d2d2d2afc1afa57.png",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 630,
+    "name": "\"Hasta Mañana\" Melatonina 60 gomitas",
+    "description": null,
+    "image_path": "954ae6a63b9711f1456c9c0e4186e800.webp",
+    "unit": "un",
+    "price_cents": 2200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 631,
+    "name": "\"Veg Abundacia\" Mix Bocaditos-400gr",
+    "description": "vegano",
+    "image_path": "2939dd6170d99709c4f6cd1ef3211362.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 632,
+    "name": "\"Nuestros Sabores\" Chips de papas con pimineta negra y sal marina-80gr",
+    "description": null,
+    "image_path": "fe0203d42d66ea31fbe277b130566ea2.webp",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 634,
+    "name": "\"Crudda\" Barra proteica avellana y chocolate- 40gr",
+    "description": null,
+    "image_path": "2ad632fc475ab0ba47ac77997e7f6121.webp",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 635,
+    "name": "\"IntiPan\" Pan Rallado vegano s/TACC- 500gr",
+    "description": null,
+    "image_path": "db4f2eca3b16f7659d5c53636c4d5524.webp",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 637,
+    "name": "\"Granger\" Premezcla de pancakes proteicos vainilla- 400gr",
+    "description": null,
+    "image_path": "5f018f6e6aa898e745bde2523e0c9516.webp",
+    "unit": "un",
+    "price_cents": 2100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 638,
+    "name": "\"Granger\" Premezcla pancakes proteicos de chocolate- 400gr",
+    "description": null,
+    "image_path": "13da6e3d867cd53711c6281237c314d6.webp",
+    "unit": "un",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 639,
+    "name": "\"Entrenuts\" Barra proteica sabor naranja y chocolate  s/TACC- 45gr",
+    "description": null,
+    "image_path": "c422a3ad4ebcc8d3746ba3bb4f0277d9.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 640,
+    "name": "\"Entrenuts\" Barra proteica sabro frutilla deli s/TACC- 45gr",
+    "description": null,
+    "image_path": "723b96497fa7e8d4122da78b0571e87c.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 641,
+    "name": "\"Entrenuts\" Barra proteico sabor chocolate y mani s/TACC- 45gr",
+    "description": null,
+    "image_path": "fa0e347deb4dc9119fd2cf0022136582.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 642,
+    "name": "\"Celula Keto\" Crackers veganas y keto s/TACC- 120gr",
+    "description": null,
+    "image_path": "de2b6593a88879953f5fa8255a81e244.jpg",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 643,
+    "name": "\"Celula Keto\" Pan serraceno en rodajas s/TACC- 800gr",
+    "description": null,
+    "image_path": "5551aa81ec4747372067dc6adaf2d2a4.jpg",
+    "unit": "un",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 644,
+    "name": "\"Que lo paleo\" Barras proteica de chocolate y mani s/TACC- 50gr",
+    "description": null,
+    "image_path": "d92d14a56fb94aa5ad3338fc3aab142c.webp",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 645,
+    "name": "\"Marbe\" Galletas de vainilla con chips de chocolate s/azucar- 180gr",
+    "description": null,
+    "image_path": "8d780ec0b3d487fa8182c38f3c13b1f0.png",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 646,
+    "name": "\"Marbe\" Galletas de chocolate s/azucar-180gr",
+    "description": null,
+    "image_path": "b656d6627527ebff004103af8c684dd8.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 647,
+    "name": "\"Naturel\" Mermelada de damasco sin azucar agregadas y s/TACC- 400gr",
+    "description": null,
+    "image_path": "640404a1820a081ffbdfa4ab321c1034.png",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 648,
+    "name": "Galletas Keto Chocolate \"celula keto\"",
+    "description": null,
+    "image_path": "729f960d663eb92fe3cde9e05fad8451.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 649,
+    "name": "Galletas Keto chips de chocolate\"celula keto\"",
+    "description": null,
+    "image_path": "70c2cc6dc4da721ca6da81f56741a591.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 650,
+    "name": "\"Celula Keto\" Granola Proteica",
+    "description": null,
+    "image_path": "84b5f5177a71c55c0c48bc0ae5c8c7fb.webp",
+    "unit": "un",
+    "price_cents": 950000,
+    "currency": "ARS"
+  },
+  {
+    "id": 651,
+    "name": "Budin Keto \"Panyuca\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 652,
+    "name": "Chipa Keto x5 \"Panyuca\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 653,
+    "name": "Bollito Pan keto \"Panyuca\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 654,
+    "name": "Pan hamburguesa x2 \"Panyuca\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 655,
+    "name": "Pan hamburguesa Grande \"Panyuca\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 657,
+    "name": "Pizzeta x5 \"Panyuca\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 650000,
+    "currency": "ARS"
+  },
+  {
+    "id": 658,
+    "name": "\"Granix\" Legumbres x400",
+    "description": null,
+    "image_path": "24b0d58ae0f8943d8fd34f794e84acd4.jpg",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 659,
+    "name": "Dulce sin azucar \"Kony\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 660,
+    "name": "\"India\" Azafran",
+    "description": null,
+    "image_path": "f97b655837662f67413966e349f704f1.webp",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 661,
+    "name": "\"Crowie\" Barrita de arroz de chocolate-12gr",
+    "description": null,
+    "image_path": "0229d3cbe21729b34035e78fd5ea15ed.jpg",
+    "unit": "un",
+    "price_cents": 100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 662,
+    "name": "\"Crowie\" Barrita de arroz de Limon -12gr",
+    "description": null,
+    "image_path": "d21642aa173794da6ea4aded282acc94.jpg",
+    "unit": "un",
+    "price_cents": 100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 663,
+    "name": "\"Bee pure\" Manteca GHEE clarificada-270gr",
+    "description": null,
+    "image_path": "0e28316269838de4d0fdf1420278c782.jpg",
+    "unit": "un",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 664,
+    "name": "\"Le-fit\" Harina de mani desgrasada-300gr",
+    "description": null,
+    "image_path": "fbee16daf4eadcb62ae51f87f7e6eded.webp",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 665,
+    "name": "\"Beepure\" Aceite de coco neutro- 350ml",
+    "description": null,
+    "image_path": "155d4c9088eab755b8aebbbe95e596cf.webp",
+    "unit": "un",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 666,
+    "name": "\"Integra\" Barra de chocolate y avellana-10gr",
+    "description": null,
+    "image_path": "213c020723af5e981c478d210a5d87ea.webp",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 667,
+    "name": "\"Dicomere\" Azucar organica s/TACC- 1kg",
+    "description": null,
+    "image_path": "a3035c8bc4c20e41bd6e33f9a80b75c0.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 668,
+    "name": "Mix de hierbas serranas x500gr",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 669,
+    "name": "yogurt proteico yogurlak",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 670,
+    "name": "\"SH/VA\" Ancestral Crackers sin gluten",
+    "description": null,
+    "image_path": "558f2a2f16b00bb45702066385eba775.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 671,
+    "name": "Ancestral Focaccias sin gluten x2",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 672,
+    "name": "Ancestral Tortitas congeladas sin gluten x6",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 673,
+    "name": "Novo pharma tos",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 674,
+    "name": "\"Angiola\"  Galletas s/azucar s/gluten",
+    "description": null,
+    "image_path": "a760faa9e6ea5ee2e2f0edc8b2da9eb2.jpg",
+    "unit": "un",
+    "price_cents": 480000,
+    "currency": "ARS"
+  },
+  {
+    "id": 675,
+    "name": "\"Kallpa\" Maca negra 150gr",
+    "description": null,
+    "image_path": "de52c9bd4b7685b7da43f5a56ef5b943.jpg",
+    "unit": "un",
+    "price_cents": 350000,
+    "currency": "ARS"
+  },
+  {
+    "id": 676,
+    "name": "\"VitaminWay\" Vitamina B12",
+    "description": null,
+    "image_path": "9de8d2a19200267a6439c5f4827b4a04.jpg",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 677,
+    "name": "\"VitaminWay\" Multivitaminico energia x30",
+    "description": null,
+    "image_path": "f80dc608dc4e16fee6a0d2994612d5a7.webp",
+    "unit": "un",
+    "price_cents": 1400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 678,
+    "name": "\"VitaminWay\" Omega 3 x60",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 3200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 679,
+    "name": "\"VitaminWay\" Spirulina x60",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 1500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 681,
+    "name": "\"Maria magdalena\" Mermelada S/Azucar",
+    "description": null,
+    "image_path": "044d34c5812c463dbcfb517de2974056.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 682,
+    "name": "Salsa de soja x970cc",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 683,
+    "name": "\"Kapac\" Vainillas S/tacc",
+    "description": null,
+    "image_path": "d8c68570e8f8f52bc91b9c841453a0e4.jpg",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 684,
+    "name": "\"Hierbas del Oasis\"  Yuyitos para el mate",
+    "description": null,
+    "image_path": "a8d5c36d22c593ddfd05c76249ee5a88.jpg",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 685,
+    "name": "\"Dicomere\" Harina de arroz x1kg",
+    "description": null,
+    "image_path": "7ce21c6a703e86701a716371654624a4.webp",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 686,
+    "name": "\"Prota\" Barra proteica",
+    "description": null,
+    "image_path": "635dd03cb56e9dd0338cd8413f4f98be.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 687,
+    "name": "Pastillas de Propoleo",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 688,
+    "name": "\"MixMe\" Almendracho. Almendra con  pistachos x125gr",
+    "description": null,
+    "image_path": "8317cba416681c4b740f0f44769829f3.jpg",
+    "unit": "un",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 689,
+    "name": "Eneldo semilla",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 4000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 690,
+    "name": "Chocolate Amargo 80% (granel)",
+    "description": null,
+    "image_path": "53035865073f9ccdff6fcbfacc112a50.webp",
+    "unit": "kg",
+    "price_cents": 9000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 691,
+    "name": "Porotos Pallares (granel)",
+    "description": null,
+    "image_path": "b214596ca002d70022cb26b1f42953d3.jpg",
+    "unit": "kg",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 692,
+    "name": "Condimento para Arroz (granel)",
+    "description": null,
+    "image_path": "343a521337243dfa8235dc3c0f97fab9.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 693,
+    "name": "Pimenton Picante (granel)",
+    "description": null,
+    "image_path": "3236b4d494b24d9f0c814dbd81c6e9dc.jpg",
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 694,
+    "name": "Orejones de durazno",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 695,
+    "name": "galletas \"delicel\" SIn gluten",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 696,
+    "name": "\"Natuliv\"  Betacaroteno x30",
+    "description": null,
+    "image_path": "abb102b5a128ab9ec3286524566f611c.jpg",
+    "unit": "un",
+    "price_cents": 1400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 697,
+    "name": "\"Natier\" Aloe vera Bebible x250cc",
+    "description": null,
+    "image_path": "4190e1ff44848815a5fddee675c4758f.jpg",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 698,
+    "name": "Psyllium Husk Fibramas Natural Seed",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 950000,
+    "currency": "ARS"
+  },
+  {
+    "id": 699,
+    "name": "Maiz Pisingallo (granel)",
+    "description": null,
+    "image_path": "fb3e9bbcff961d78485faff8120e27a8.webp",
+    "unit": "kg",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 700,
+    "name": "Fenogreco (granel)",
+    "description": null,
+    "image_path": "fc06d20292ae1e4d09323112a23977eb.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 701,
+    "name": "Adobo (granel)",
+    "description": null,
+    "image_path": "bce1454dabf3f62a4c79dfcee0a05d7e.png",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 702,
+    "name": "Albahaca (granel)",
+    "description": null,
+    "image_path": "fad3ce2d27a06cb8143fc17e08730603.webp",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 703,
+    "name": "Mostaza (granel)",
+    "description": null,
+    "image_path": "c69546099b9dc127a29de031e3d128bc.jpg",
+    "unit": "kg",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 704,
+    "name": "Galletas de avena (granel)",
+    "description": null,
+    "image_path": "fec591178107db54d7815fd8f008725c.jpg",
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 705,
+    "name": "Manzanillla  (granel)",
+    "description": null,
+    "image_path": "d4aedfffd2a84f8359df5a9f37fbfebf.jpg",
+    "unit": "kg",
+    "price_cents": 6500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 706,
+    "name": "Hamburgesas de soja caseras",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 707,
+    "name": "Rebozador \"panko\"",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 708,
+    "name": "\"Labs nutrition\" bisglicinato de magnesio x60cap",
+    "description": null,
+    "image_path": "03ae754e8939f33e89b313e55124453d.webp",
+    "unit": "un",
+    "price_cents": 4500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 709,
+    "name": "\"Labs nutrition\" Blend de hongos x60caps",
+    "description": null,
+    "image_path": "b767e86bdf69d45ddf2c384701383b30.webp",
+    "unit": "un",
+    "price_cents": 5000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 710,
+    "name": "\"Schar\" Salinis galletas saladas x60gr",
+    "description": null,
+    "image_path": "d08d715d70e90178cb83fa931a0740a6.jpg",
+    "unit": "un",
+    "price_cents": 600000,
+    "currency": "ARS"
+  },
+  {
+    "id": 711,
+    "name": "\"Titan\" Levadura en copos",
+    "description": null,
+    "image_path": "ed1347ee7d62523ba8a0ed468a2c33cb.jpg",
+    "unit": "un",
+    "price_cents": 2500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 712,
+    "name": "\"De Uco\" Pasta de mani Proteica",
+    "description": null,
+    "image_path": "5d17473289df504d759212e4a8a0b0f6.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 713,
+    "name": "\"Natural Seed\" harina de almendra 200gr",
+    "description": null,
+    "image_path": "b8d0b51f43f5e9ba75306154c02a7767.webp",
+    "unit": "un",
+    "price_cents": 1200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 718,
+    "name": "\"Crackines\" Tostaditas de arroz- s/tacc 120gr",
+    "description": null,
+    "image_path": "73eb03f1e9bd7c65f5075589ee4f78fb.jpg",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  },
+  {
+    "id": 719,
+    "name": "\"P.A.N\" Maiz precocido y molido",
+    "description": null,
+    "image_path": "146960a9a12c484b08113617dc2350fc.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 720,
+    "name": "\"YinYang\" Harina de maiz blanco s/tacc",
+    "description": null,
+    "image_path": "afff8e41fd043a816381a392312981a6.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 721,
+    "name": "\"Smams\" Crakers sin sal s/tacc-150gr",
+    "description": null,
+    "image_path": "8d998c18efae281ef9407937b7a11402.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 722,
+    "name": "Granola  a granel",
+    "description": null,
+    "image_path": null,
+    "unit": "kg",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 723,
+    "name": "Hummus \"Alcaraz\" 175gr",
+    "description": null,
+    "image_path": null,
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 724,
+    "name": "\"Profecia\" Membrillitos",
+    "description": "card",
+    "image_path": "5c71eeebb6d7c72c1d11fac7a5618d13.webp",
+    "unit": "un",
+    "price_cents": 90000,
+    "currency": "ARS"
+  },
+  {
+    "id": 725,
+    "name": "Sobrecito Levadura Levex",
+    "description": null,
+    "image_path": "af11ed3d81ea23f2a5a847eac8fd228c.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 726,
+    "name": "\"Kapac\" Minicrackers s/tacc-120gr",
+    "description": null,
+    "image_path": "ae60f19801547ab72ce90cf0f76595da.jpg",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 727,
+    "name": "\"Dicomere\" Harina de algarroba s/tacc-200gr",
+    "description": null,
+    "image_path": "c5f5ffba5944c4fdc3297538c7defc9d.jpg",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 728,
+    "name": "\"Sturla\" Rebozador s/tacc-500gr",
+    "description": null,
+    "image_path": "de426c48f6102b0c4ddd70631d8a3850.webp",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 729,
+    "name": "\"Picada Vieja\" Yerba mate-500gr",
+    "description": null,
+    "image_path": "5e2e9bca51918279df8a61e55dee1451.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 730,
+    "name": "\"Kalena\"  Yerba Mate suave-500gr",
+    "description": null,
+    "image_path": "476980b59ab42bf79b4ed7bb43c503ce.jpg",
+    "unit": "un",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 731,
+    "name": "\"BioNativa\" Aceite de organo- 300cc",
+    "description": null,
+    "image_path": "d0db0659d6f25833b8b899b887c4565b.jpg",
+    "unit": "un",
+    "price_cents": 1800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 732,
+    "name": "Cous Cous\"Ararat\"",
+    "description": null,
+    "image_path": "fcd0ba03cee1d33ec9fe1de15cbf2cab.webp",
+    "unit": "un",
+    "price_cents": 900000,
+    "currency": "ARS"
+  },
+  {
+    "id": 733,
+    "name": "\"Cerro azul\" Barrita sin azucar , sin tacc",
+    "description": null,
+    "image_path": "7012a6c336ed5ab211c5df17a598b0b9.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 734,
+    "name": "\"salmas\" Clasicas",
+    "description": null,
+    "image_path": "14f15160d379f4f63bbb20d7450113d6.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 735,
+    "name": "Harina de trigo sarraceno x500gr",
+    "description": null,
+    "image_path": "502a96ead363517ff44b9ddb90669fb8.jpg",
+    "unit": "un",
+    "price_cents": 700000,
+    "currency": "ARS"
+  },
+  {
+    "id": 736,
+    "name": "\"Banda Naranja\" Alfajor de chocolste sin tacc-48gr",
+    "description": null,
+    "image_path": "e18c1996f24b66dfce8088d38b67a722.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 737,
+    "name": "\"Banda Naranja\" Conitos de chocolate s/tacc- 40gr",
+    "description": null,
+    "image_path": "33d2fdf064853ded1b2bf33b06dad82c.jpg",
+    "unit": "un",
+    "price_cents": 300000,
+    "currency": "ARS"
+  },
+  {
+    "id": 738,
+    "name": "\"Kerala\" Cuisine Coconut s/tacc- 400gr",
+    "description": null,
+    "image_path": "510b788a9ee19f5281ac847337e0952c.jpg",
+    "unit": "un",
+    "price_cents": 1100000,
+    "currency": "ARS"
+  },
+  {
+    "id": 739,
+    "name": "\"Ceral\" Fideos s/tacc-250g",
+    "description": null,
+    "image_path": "c5125e8c6f6f78801a5e5a0460212f13.jpg",
+    "unit": "un",
+    "price_cents": 800000,
+    "currency": "ARS"
+  },
+  {
+    "id": 740,
+    "name": "Propoleo liquido 30cc",
+    "description": null,
+    "image_path": "2f5d5beadd186ea212439091e0dc7e39.jpg",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 741,
+    "name": "Aceite de oregano \"andino\" 30cc",
+    "description": null,
+    "image_path": "cac5c8d76e390f99e3270ff16beb22b2.jpg",
+    "unit": "un",
+    "price_cents": 2200000,
+    "currency": "ARS"
+  },
+  {
+    "id": 742,
+    "name": "Aceite de oregano \"bionativa\"",
+    "description": null,
+    "image_path": "fd2c66f183638464f55998ddd03897b3.jpg",
+    "unit": "un",
+    "price_cents": 2000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 749,
+    "name": "Tostadas de arroz \"Cereal\"",
+    "description": null,
+    "image_path": "f520ed9c07e29c4424d60a19d7aa4301.webp",
+    "unit": "un",
+    "price_cents": 450000,
+    "currency": "ARS"
+  },
+  {
+    "id": 750,
+    "name": "\"Natier\" Centella Asiatica x50cap",
+    "description": null,
+    "image_path": "47569ba4eee6fcb1b2567b55e21ee3ef.webp",
+    "unit": "un",
+    "price_cents": 3000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 751,
+    "name": "\"Hierbas del oasis\" Valeriana",
+    "description": null,
+    "image_path": "db2ce46c408ad862d73dec2c0f28f393.webp",
+    "unit": "un",
+    "price_cents": 1000000,
+    "currency": "ARS"
+  },
+  {
+    "id": 752,
+    "name": "\"Femag\" Fecula de mandioca 500gr-s/TACC",
+    "description": null,
+    "image_path": "7174815ffdc35698554282119363aa0f.jpg",
+    "unit": "un",
+    "price_cents": 500000,
+    "currency": "ARS"
+  },
+  {
+    "id": 753,
+    "name": "\"Dicomere\" Harina arroz yamani organica 450gr- s/tacc",
+    "description": null,
+    "image_path": "23639581e9107b5e9ec1dbfa2fc77ca3.webp",
+    "unit": "un",
+    "price_cents": 400000,
+    "currency": "ARS"
+  }
+]
