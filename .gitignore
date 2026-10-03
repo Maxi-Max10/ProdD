@@ -3,3 +3,6 @@ node_modules/
 .env
 .env.local
 u600449091_dietetics.sql
+.tmp-ui-review.mjs
+.chrome-mobile-review/
+.ui-review/
